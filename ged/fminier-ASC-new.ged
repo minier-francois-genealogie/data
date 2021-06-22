@@ -1,12 +1,12 @@
 0 HEAD
-2 VERS 7.0.0
+1 SOUR MonGenerateur2 VERS 7.0.0
 2 NAME gwb2ged
 2 CORP INRIA
 3 ADDR http://www.geneweb.org
 2 DATA fminier.gwb
-1 DATE 02 JUN 2021
-2 TIME 16:51:29
-1 FILE fminier-ASC-4c2978.ged
+1 DATE 15 JUN 2021
+2 TIME 11:25:51
+1 FILE fminier-ASC-86f19c.ged
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
@@ -168,6 +168,7 @@
 2 DATE 26 APR 1821
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Francois.sosa_32.1914-10-13.D.56-Augan_A_VERIFIER.jpg">Acte de décès</a>
 1 OCCU Laboureur Cultivateur
 1 FAMC @F16@
 1 FAMS @F5@
@@ -179,6 +180,7 @@
 2 DATE 20 MAY 1831
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Marie.sosa_33.1887-10-06.D.56-Augan.jpg">Acte de décès</a>
 2 DATE 06 OCT 1887
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 OCCU Laboureur ou ménagère Cultivatrice
@@ -370,6 +372,7 @@
 2 DATE 23 AUG 1783
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Pierre.sosa_88.1867-04-01.D.56-Augan.jpg">Acte de décès</a>
 1 FAMC @F35@
 1 FAMS @F33@
 0 @I34@ INDI
@@ -380,12 +383,14 @@
 2 DATE 26 OCT 1782
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/GARIN_Marie_Louise.sosa_89.1854-09-26.D.56-Augan.jpg">Acte de décès</a>
 1 FAMC @F36@
 1 FAMS @F33@
 0 @I35@ INDI
 1 NAME Mathurin /SIMON/
 1 SEX M
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SIMON_Mathurin.sosa_90.1828-01-26.D.56-Monterrein.jpg">Acte de décès</a>
 1 FAMC @F37@
 1 FAMS @F34@
 0 @I36@ INDI
@@ -771,7 +776,7 @@
 2 PLAC Caro, 56140, Morbihan, Bretagne, FRANCE
 1 FAMS @F64@
 0 @I77@ INDI
-1 NAME JACQUETTE /JOUAN/
+1 NAME Jacquette /JOUAN/
 1 SEX F
 1 BIRT
 2 DATE ABT 1635
@@ -1658,6 +1663,7 @@
 1 NAME Julienne /GUEHENNEUC/
 1 SEX F
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/GUEHENNEUC_Julienne.sosa_75.1794-07-18.N.56-La_Gacilly_LACUNES_DEFINITIVES.jpg">Acte de naissance</a>
 2 DATE 18 JUL 1794
 2 PLAC La Gacilly, 56200, Morbihan, Bretagne, FRANCE
 1 DEAT
@@ -2112,12 +2118,14 @@
 1 NAME Julien /CHEVRIER/
 1 SEX M
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Julien.sosa_72.1876-04-18.D.35-Renac.jpg">Acte de décès</a>
 1 FAMC @F152@
 1 FAMS @F124@
 0 @I242@ INDI
 1 NAME Françoise /RIAUD/
 1 SEX F
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/RIAUD_Françoise.sosa_73.1887-08-30.D.35-Renac.jpg">Acte de décès</a>
 1 FAMC @F153@
 1 FAMS @F124@
 0 @I243@ INDI
@@ -2147,6 +2155,7 @@
 1 NAME Perrine /CHEVERIER/
 1 SEX F
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVERIER_Perrine.sosa_145.1819-01-07.D.35-Renac.jpg">Acte de décès</a>
 1 FAMC @F157@
 1 FAMS @F152@
 0 @I248@ INDI
@@ -2842,6 +2851,7 @@
 1 NAME Joseph Marie Jean Barnabé /BELLAMY/
 1 SEX M
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BELLAMY_Joseph_Marie_Jean_Barnabe.sosa_78.1871-03-16.D.56-La_Gacilly.jpg">Acte de décès</a>
 1 FAMC @F220@
 1 FAMS @F218@
 0 @I373@ INDI
@@ -3171,6 +3181,7 @@
 1 NAME Marguerite /BELLAVOIR/
 1 SEX F
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BELLAVOIR_Marguerite.sosa_77.1848-02-20.D.35-Sixt-sur-Aff.jpg">Acte de décès</a>
 1 FAMC @F249@
 1 FAMS @F217@
 0 @I433@ INDI
@@ -3193,12 +3204,14 @@
 1 NAME Joseph /BELLAVOIR/
 1 SEX M
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BELLAVOIR_Joseph.sosa_154.1842-08-28.D.35-Bruc-sur-Aff.jpg">Acte de décès</a>
 1 FAMC @F251@
 1 FAMS @F249@
 0 @I437@ INDI
 1 NAME Jeanne /DAUDIN/
 1 SEX F
 1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DAUDIN_Jeanne.sosa_155.1833-12-02.D.35-Bruc-sur-Aff.jpg">Acte de décès</a>
 1 FAMC @F252@
 1 FAMS @F249@
 0 @I438@ INDI
@@ -5195,6 +5208,7 @@
 1 NAME Jeanne /PERRAIN/
 1 SEX F
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PERRAIN_Jeanne.sosa_119.1835-02-08.D.44-Besne.jpg">Acte de décès</a>
 2 DATE 08 FEB 1835
 2 PLAC Besné, 44160, Loire-Atlantique, Pays De La Loire, FRANCE
 1 FAMC @F350@
@@ -5567,9 +5581,11 @@
 1 NAME "Joseph" Marie /ROUILLÉ/
 1 SEX M
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/ROUILLE_Joseph.sosa_120.1797-03-19.N.56-Saint-Congard.jpg">Acte de naissance</a>
 2 DATE 19 MAR 1797
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/ROUILLE_Joseph.sosa_120.1857-11-30.D.56-Saint-Congard.jpg">Acte de décès</a>
 2 DATE 30 NOV 1857
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
 1 OCCU Laboureur
@@ -5583,6 +5599,7 @@
 2 DATE 14 OCT 1803
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HALLIER_Louise.sosa_121.1855-02-07.D.56-Saint-Congard.jpg">Acte de décès</a>
 2 DATE 07 FEB 1855
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
 1 OCCU Cultivatrice
@@ -5592,9 +5609,11 @@
 1 NAME Julien /BENOIT/
 1 SEX M
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BENOIT_Julien.sosa_122.1794-07-18.N.56-Pluherlin.jpg">Acte de naissance</a>
 2 DATE 18 JUL 1794
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BENOIT_Julien.sosa_122.1842-01-06.D.56-Pluherlin.jpg">Acte de décès</a>
 2 DATE 06 JAN 1842
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 OCCU Laboureur
@@ -5604,9 +5623,11 @@
 1 NAME Mathurine /LANOÉ/
 1 SEX F
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/LANOE_Mathurine.sosa_123.1802-04-01.N.56-Pluherlin.jpg">Acte de naissance</a>
 2 DATE 01 APR 1802
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/LANOE_Mathurine.sosa_123.1856-02-29.D.56-Pluherlin.jpg">Acte de décès</a>
 2 DATE 29 FEB 1856
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 OCCU Cultivatrice
@@ -5768,7 +5789,7 @@
 1 BIRT
 2 DATE 03 MAR 1732
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F388@
 1 FAMS @F384@
 0 @I728@ INDI
@@ -5872,7 +5893,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1686
-1 DEAT
+1 DEAT Y
 1 FAMC @F397@
 1 FAMS @F396@
 0 @I738@ INDI
@@ -5903,14 +5924,14 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1673
-1 DEAT
+1 DEAT Y
 1 FAMS @F391@
 0 @I741@ INDI
 1 NAME Yves /BARBIER/
 1 SEX M
 1 BIRT
 2 DATE ABT 1665
-1 DEAT
+1 DEAT Y
 1 FAMS @F392@
 0 @I742@ INDI
 1 NAME Michelle /MARTIN/
@@ -5918,7 +5939,7 @@
 1 BIRT
 2 DATE 03 FEB 1672
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F400@
 1 FAMS @F392@
 0 @I743@ INDI
@@ -5992,7 +6013,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1679
-1 DEAT
+1 DEAT Y
 1 OCCU Boulanger
 1 FAMC @F406@
 1 FAMS @F403@
@@ -6002,7 +6023,7 @@
 1 BIRT
 2 DATE 26 SEP 1677
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F407@
 1 FAMS @F403@
 0 @I751@ INDI
@@ -6020,7 +6041,7 @@
 1 BIRT
 2 DATE 30 JAN 1674
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F409@
 1 FAMS @F404@
 0 @I753@ INDI
@@ -6028,7 +6049,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1646
-1 DEAT
+1 DEAT Y
 1 OCCU Laboureur
 1 FAMC @F410@
 1 FAMS @F405@
@@ -6037,7 +6058,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1653
-1 DEAT
+1 DEAT Y
 1 FAMC @F411@
 1 FAMS @F405@
 2 CONC mme de Guillaume GUILLOUCHE du village de Carhon
@@ -6089,7 +6110,7 @@
 1 BIRT
 2 DATE 31 JUL 1710
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F415@
 1 FAMS @F398@
 0 @I760@ INDI
@@ -6097,14 +6118,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1728
-1 DEAT
+1 DEAT Y
 1 FAMS @F412@
 0 @I761@ INDI
 1 NAME Marie /BERNUGAT/
 1 SEX F
 1 BIRT
 2 DATE BEF 1730
-1 DEAT
+1 DEAT Y
 1 FAMS @F412@
 0 @I762@ INDI
 1 NAME Jacques /BUSSON/
@@ -6296,7 +6317,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1622
-1 DEAT
+1 DEAT Y
 1 FAMS @F428@
 0 @I780@ INDI
 1 NAME Jean /RIVAL/
@@ -6360,7 +6381,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1659
-1 DEAT
+1 DEAT Y
 1 FAMS @F433@
 0 @I786@ INDI
 1 NAME Francois /RIVAL/
@@ -6446,7 +6467,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1615
-1 DEAT
+1 DEAT Y
 1 FAMS @F438@
 0 @I794@ INDI
 1 NAME Jeanne /GRAYO/
@@ -6505,7 +6526,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1654
-1 DEAT
+1 DEAT Y
 1 FAMS @F440@
 0 @I800@ INDI
 1 NAME Guillemette /CHERON/
@@ -6548,7 +6569,7 @@
 1 BIRT
 2 DATE BEF 1670
 2 PLAC Saint-Gravé, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F416@
 0 @I804@ INDI
 1 NAME Nicolas /EVENET/
@@ -6734,7 +6755,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1650
-1 DEAT
+1 DEAT Y
 1 FAMS @F456@
 0 @I822@ INDI
 1 NAME Perrine /BOULIDO/
@@ -6760,7 +6781,7 @@
 1 SEX F
 1 BIRT
 2 DATE ABT 1643
-1 DEAT
+1 DEAT Y
 1 FAMS @F457@
 0 @I825@ INDI
 1 NAME Jean /BAHON/
@@ -6768,7 +6789,7 @@
 1 BIRT
 2 DATE BEF 1603
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F458@
 0 @I826@ INDI
 1 NAME Yves /JULLE/
@@ -6785,7 +6806,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1689
-1 DEAT
+1 DEAT Y
 1 FAMS @F454@
 0 @I828@ INDI
 1 NAME Yves /LECOINTE/
@@ -6930,7 +6951,7 @@
 2 DATE 30 AUG 1637
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F469@
 1 FAMS @F465@
 0 @I841@ INDI
@@ -6938,14 +6959,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1612
-1 DEAT
+1 DEAT Y
 1 FAMS @F468@
 0 @I842@ INDI
 1 NAME Perrine /LEGOUET/
 1 SEX F
 1 BIRT
 2 DATE BEF 1614
-1 DEAT
+1 DEAT Y
 1 FAMS @F468@
 0 @I843@ INDI
 1 NAME Michel /OLLIVIER/
@@ -7104,7 +7125,7 @@
 1 BIRT
 2 DATE 17 MAR 1626
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F477@
 1 FAMS @F473@
 0 @I858@ INDI
@@ -7158,7 +7179,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1609
-1 DEAT
+1 DEAT Y
 1 FAMS @F476@
 0 @I863@ INDI
 1 NAME Perrine /NAEL/
@@ -7166,7 +7187,7 @@
 1 BIRT
 2 DATE 29 JAN 1607
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F481@
 1 FAMS @F476@
 0 @I864@ INDI
@@ -7174,28 +7195,28 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1590
-1 DEAT
+1 DEAT Y
 1 FAMS @F477@
 0 @I865@ INDI
 1 NAME Julienne /BARBIER/
 1 SEX F
 1 BIRT
 2 DATE ABT 1590
-1 DEAT
+1 DEAT Y
 1 FAMS @F477@
 0 @I866@ INDI
 1 NAME Jean /NAEL/
 1 SEX M
 1 BIRT
 2 DATE BEF 1585
-1 DEAT
+1 DEAT Y
 1 FAMS @F481@
 0 @I867@ INDI
 1 NAME Jeanne /BROUHAN/
 1 SEX F
 1 BIRT
 2 DATE ABT 1575
-1 DEAT
+1 DEAT Y
 1 FAMS @F481@
 0 @I868@ INDI
 1 NAME Guy /LEDUC/
@@ -7247,21 +7268,21 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1703
-1 DEAT
+1 DEAT Y
 1 FAMS @F421@
 0 @I874@ INDI
 1 NAME Francois /DANIEL/
 1 SEX M
 1 BIRT
 2 DATE BEF 1664
-1 DEAT
+1 DEAT Y
 1 FAMS @F418@
 0 @I875@ INDI
 1 NAME Julienne /PAION/
 1 SEX F
 1 BIRT
 2 DATE BEF 1666
-1 DEAT
+1 DEAT Y
 1 FAMS @F418@
 0 @I876@ INDI
 1 NAME Francois /GERGAUD/
@@ -7291,7 +7312,7 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SANTERRE_Aimee_Jeanne_Marie.sosa_31.1868-02-24.N.56-Pleucadeuc.jpg">Acte de naissance</a>
 2 DATE 24 FEB 1868
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 OCCU Cultivatrice
 1 FAMC @F484@
 1 FAMS @F369@
@@ -7348,6 +7369,7 @@
 2 DATE ABT 1796
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/GIRON_Perrine.sosa_125.1871-11-29.D.56-Pleucadeuc.jpg">Acte de décès</a>
 2 DATE 29 NOV 1871
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 OCCU Fille de labeur, ménagère
@@ -7373,6 +7395,7 @@
 1 NAME s71//
 1 SEX F
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MAHE_Jaquette.sosa_127.1801-07-25.N.56-Pluherlin.jpg">Acte de naissance</a>
 2 DATE 25 JUL 1801
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 DEAT
@@ -7692,7 +7715,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1719
-1 DEAT
+1 DEAT Y
 1 FAMS @F507@
 0 @I911@ INDI
 1 NAME Guillaume /BAYOUX/
@@ -7846,7 +7869,7 @@
 2 DATE 04 MAY 1736
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F525@
 1 FAMS @F495@
 0 @I924@ INDI
@@ -7891,7 +7914,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1699
-1 DEAT
+1 DEAT Y
 1 FAMS @F524@
 0 @I928@ INDI
 1 NAME Jean /DENYS/
@@ -7901,7 +7924,7 @@
 2 DATE 09 APR 1698
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F528@
 1 FAMS @F525@
 0 @I929@ INDI
@@ -7970,7 +7993,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1707
-1 DEAT
+1 DEAT Y
 1 FAMC @F533@
 1 FAMS @F501@
 0 @I935@ INDI
@@ -8026,7 +8049,7 @@
 1 BIRT
 2 DATE 03 JAN 1645
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F537@
 1 FAMS @F517@
 0 @I940@ INDI
@@ -8048,7 +8071,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1671
-1 DEAT
+1 DEAT Y
 1 FAMS @F518@
 0 @I942@ INDI
 1 NAME Catherine /COURTOIS/
@@ -8056,7 +8079,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1669
-1 DEAT
+1 DEAT Y
 1 FAMS @F518@
 0 @I943@ INDI
 1 NAME Julien /LE CADRE/
@@ -8077,7 +8100,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1655
-1 DEAT
+1 DEAT Y
 1 FAMS @F520@
 2 CONC /archives/releves/depgn27039/10985 de Yves et Perrine OLLIVIER
 2 CONC n&oc=&p=yves ; http://www.geneanet.org/archives/releves/depgn27039/1098
@@ -8208,7 +8231,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1643
-1 DEAT
+1 DEAT Y
 1 FAMS @F547@
 0 @I956@ INDI
 1 NAME Perrine /HALLIER/
@@ -8216,7 +8239,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1643
-1 DEAT
+1 DEAT Y
 1 FAMS @F547@
 0 @I957@ INDI
 1 NAME Guillaume /DANILET/
@@ -8224,7 +8247,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1663
-1 DEAT
+1 DEAT Y
 1 FAMC @F547@
 1 FAMS @F527@
 0 @I958@ INDI
@@ -8263,7 +8286,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1645
-1 DEAT
+1 DEAT Y
 1 FAMS @F548@
 0 @I962@ INDI
 1 NAME Xx /XX/
@@ -8271,21 +8294,21 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1645
-1 DEAT
+1 DEAT Y
 1 FAMS @F548@
 0 @I963@ INDI
 1 NAME Jean /LECHANTOUX/
 1 SEX M
 1 BIRT
 2 DATE BEF 1601
-1 DEAT
+1 DEAT Y
 1 FAMS @F479@
 0 @I964@ INDI
 1 NAME Jacquette /BOGE/
 1 SEX F
 1 BIRT
 2 DATE BEF 1603
-1 DEAT
+1 DEAT Y
 1 FAMS @F479@
 0 @I965@ INDI
 1 NAME Guillaume /DEJOURS/
@@ -8344,7 +8367,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1720
-1 DEAT
+1 DEAT Y
 1 FAMC @F552@
 1 FAMS @F502@
 0 @I971@ INDI
@@ -8353,21 +8376,21 @@
 1 BIRT
 2 DATE BEF 1652
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F408@
 0 @I972@ INDI
 1 NAME Jean /BOULIDO/
 1 SEX M
 1 BIRT
 2 DATE BEF 1637
-1 DEAT
+1 DEAT Y
 1 FAMS @F409@
 0 @I973@ INDI
 1 NAME Perrine /NOBLET/
 1 SEX F
 1 BIRT
 2 DATE BEF 1639
-1 DEAT
+1 DEAT Y
 1 FAMS @F409@
 0 @I974@ INDI
 1 NAME Francois /SANTERRE/
@@ -8375,7 +8398,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1618
-1 DEAT
+1 DEAT Y
 1 FAMS @F537@
 0 @I975@ INDI
 1 NAME Xiste /LE BARBIER/
@@ -8383,7 +8406,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1620
-1 DEAT
+1 DEAT Y
 1 FAMS @F537@
 0 @I976@ INDI
 1 NAME Pierre /FLEURY/
@@ -8435,7 +8458,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1688
-1 DEAT
+1 DEAT Y
 1 FAMS @F516@
 0 @I981@ INDI
 1 NAME Julienne /GAREL/
@@ -8443,7 +8466,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1690
-1 DEAT
+1 DEAT Y
 1 FAMS @F516@
 0 @I982@ INDI
 1 NAME Jean /BAYOUX/
@@ -8451,7 +8474,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1645
-1 DEAT
+1 DEAT Y
 1 FAMC @F555@
 1 FAMS @F553@
 0 @I983@ INDI
@@ -8472,7 +8495,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1651
-1 DEAT
+1 DEAT Y
 1 FAMS @F554@
 0 @I985@ INDI
 1 NAME Jeanne /FABLET/
@@ -8480,7 +8503,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1653
-1 DEAT
+1 DEAT Y
 1 FAMS @F554@
 0 @I986@ INDI
 1 NAME Gilles /BAYOUX/
@@ -8489,7 +8512,7 @@
 1 BIRT
 2 DATE 04 FEB 1604
 2 PLAC Saint-Marcel, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F557@
 1 FAMS @F555@
 0 @I987@ INDI
@@ -8498,7 +8521,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1625
-1 DEAT
+1 DEAT Y
 1 FAMS @F555@
 0 @I988@ INDI
 1 NAME Gilles /ROBERT/
@@ -8507,7 +8530,7 @@
 1 BIRT
 2 DATE 21 OCT 1621
 2 PLAC Saint-Marcel, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F558@
 1 FAMS @F556@
 0 @I989@ INDI
@@ -8516,7 +8539,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1628
-1 DEAT
+1 DEAT Y
 1 FAMS @F556@
 0 @I990@ INDI
 1 NAME Guillaume /ROBERT/
@@ -8524,7 +8547,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1597
-1 DEAT
+1 DEAT Y
 1 FAMC @F559@
 1 FAMS @F558@
 0 @I991@ INDI
@@ -8533,7 +8556,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1599
-1 DEAT
+1 DEAT Y
 1 FAMS @F558@
 0 @I992@ INDI
 1 NAME Gilles /ROBERT/
@@ -8541,7 +8564,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1554
-1 DEAT
+1 DEAT Y
 1 FAMS @F559@
 0 @I993@ INDI
 1 NAME Julienne /GUYOT/
@@ -8549,7 +8572,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1556
-1 DEAT
+1 DEAT Y
 1 FAMS @F559@
 0 @I994@ INDI
 1 NAME Robert /BAYOUX/
@@ -8557,7 +8580,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1583
-1 DEAT
+1 DEAT Y
 1 FAMC @F560@
 1 FAMS @F557@
 0 @I995@ INDI
@@ -8575,7 +8598,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1563
-1 DEAT
+1 DEAT Y
 1 FAMS @F560@
 0 @I997@ INDI
 1 NAME Jeanne /EON/
@@ -8583,7 +8606,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1565
-1 DEAT
+1 DEAT Y
 1 FAMS @F560@
 0 @I998@ INDI
 1 NAME Noel /TOUGAY/
@@ -8606,14 +8629,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1645
-1 DEAT
+1 DEAT Y
 1 FAMS @F402@
 0 @I1001@ INDI
 1 NAME Laurence /TASTART/
 1 SEX F
 1 BIRT
 2 DATE BEF 1647
-1 DEAT
+1 DEAT Y
 1 FAMC @F561@
 1 FAMS @F402@
 0 @I1002@ INDI
@@ -8721,7 +8744,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1644
-1 DEAT
+1 DEAT Y
 1 FAMS @F546@
 0 @I1012@ INDI
 1 NAME Olive /GAYET/
@@ -8729,7 +8752,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1650
-1 DEAT
+1 DEAT Y
 1 FAMS @F540@
 0 @I1013@ INDI
 1 NAME Julien /RIVALAIN/
@@ -8748,7 +8771,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1654
-1 DEAT
+1 DEAT Y
 1 FAMS @F541@
 0 @I1015@ INDI
 1 NAME Julien /DANILO/
@@ -8792,7 +8815,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1680
-1 DEAT
+1 DEAT Y
 1 FAMC @F572@
 1 FAMS @F536@
 0 @I1019@ INDI
@@ -8814,7 +8837,7 @@
 1 BIRT
 2 DATE BEF 1631
 2 PLAC Saint-Jacut-Les-Pins, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F569@
 0 @I1021@ INDI
 1 NAME Pierre /LUCAS/
@@ -8822,7 +8845,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1629
-1 DEAT
+1 DEAT Y
 1 FAMC @F574@
 1 FAMS @F570@
 0 @I1022@ INDI
@@ -8843,7 +8866,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1596
-1 DEAT
+1 DEAT Y
 1 FAMS @F573@
 0 @I1024@ INDI
 1 NAME Jacquette /LE BEAU/
@@ -8851,7 +8874,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1598
-1 DEAT
+1 DEAT Y
 1 FAMS @F573@
 0 @I1025@ INDI
 1 NAME Jean /BURBAN/
@@ -8869,7 +8892,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1610
-1 DEAT
+1 DEAT Y
 1 FAMC @F577@
 1 FAMS @F575@
 0 @I1027@ INDI
@@ -8971,7 +8994,7 @@
 2 DATE 07 FEB 1612
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F584@
 1 FAMS @F579@
 0 @I1035@ INDI
@@ -8980,7 +9003,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1596
-1 DEAT
+1 DEAT Y
 1 FAMS @F581@
 0 @I1036@ INDI
 1 NAME Julienne /THAUMOUR/
@@ -8989,7 +9012,7 @@
 1 BIRT
 2 DATE 29 APR 1580
 2 PLAC Caden, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F585@
 1 FAMS @F581@
 0 @I1037@ INDI
@@ -9029,7 +9052,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1593
-1 DEAT
+1 DEAT Y
 1 FAMC @F588@
 1 FAMS @F583@
 0 @I1040@ INDI
@@ -9038,7 +9061,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1595
-1 DEAT
+1 DEAT Y
 1 FAMC @F589@
 1 FAMS @F583@
 0 @I1041@ INDI
@@ -9046,14 +9069,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1645
-1 DEAT
+1 DEAT Y
 1 FAMS @F443@
 0 @I1042@ INDI
 1 NAME Renée /PIERRE/
 1 SEX F
 1 BIRT
 2 DATE BEF 1647
-1 DEAT
+1 DEAT Y
 1 FAMS @F443@
 0 @I1043@ INDI
 1 NAME Louis /LE CADRE/
@@ -9079,14 +9102,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1696
-1 DEAT
+1 DEAT Y
 1 FAMS @F552@
 0 @I1046@ INDI
 1 NAME Xx /XX/
 1 SEX F
 1 BIRT
 2 DATE BEF 1696
-1 DEAT
+1 DEAT Y
 1 FAMS @F552@
 0 @I1047@ INDI
 1 NAME Francois /GONDET/
@@ -9168,7 +9191,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1686
-1 DEAT
+1 DEAT Y
 1 OCCU Laboureur
 1 FAMS @F567@
 0 @I1054@ INDI
@@ -9188,7 +9211,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1632
-1 DEAT
+1 DEAT Y
 1 FAMS @F591@
 0 @I1056@ INDI
 1 NAME Yvonne /BAHON/
@@ -9196,7 +9219,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1634
-1 DEAT
+1 DEAT Y
 1 FAMS @F591@
 0 @I1057@ INDI
 1 NAME Charles /GERGAUD/
@@ -9232,7 +9255,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1662
-1 DEAT
+1 DEAT Y
 1 FAMS @F594@
 0 @I1060@ INDI
 1 NAME Jeanne /MARTIN/
@@ -9240,21 +9263,21 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1664
-1 DEAT
+1 DEAT Y
 1 FAMS @F594@
 0 @I1061@ INDI
 1 NAME Julien /FLEURY/
 1 SEX M
 1 BIRT
 2 DATE BEF 1598
-1 DEAT
+1 DEAT Y
 1 FAMS @F430@
 0 @I1062@ INDI
 1 NAME Jeanne /COUEDRO/
 1 SEX F
 1 BIRT
 2 DATE BEF 1600
-1 DEAT
+1 DEAT Y
 1 FAMS @F430@
 0 @I1063@ INDI
 1 NAME François /LE POULTE/
@@ -9271,7 +9294,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1612
-1 DEAT
+1 DEAT Y
 1 FAMC @F598@
 1 FAMS @F431@
 2 CONC s RIVAL et Marthe HOUSSEC (sosa)
@@ -9309,7 +9332,7 @@
 1 BIRT
 2 DATE BEF 1651
 3 CONC E CHERON et Guillemette LE POULTÉ
-1 DEAT
+1 DEAT Y
 1 FAMS @F424@
 0 @I1069@ INDI
 1 NAME Jean /MOUROT/
@@ -9386,28 +9409,28 @@
 1 BIRT
 2 DATE BEF 1633
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F411@
 0 @I1078@ INDI
 1 NAME Xx /HERNIGOT/
 1 SEX M
 1 BIRT
 2 DATE BEF 1608
-1 DEAT
+1 DEAT Y
 1 FAMS @F563@
 0 @I1079@ INDI
 1 NAME Pierre /RUBAUD/
 1 SEX M
 1 BIRT
 2 DATE BEF 1660
-1 DEAT
+1 DEAT Y
 1 FAMS @F397@
 0 @I1080@ INDI
 1 NAME Perrine /GUILLOUCHE/
 1 SEX F
 1 BIRT
 2 DATE BEF 1662
-1 DEAT
+1 DEAT Y
 1 FAMS @F397@
 0 @I1081@ INDI
 1 NAME Julien /MAIGNAN/
@@ -9415,7 +9438,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1652
-1 DEAT
+1 DEAT Y
 1 OCCU Laboureur
 1 FAMS @F543@
 0 @I1082@ INDI
@@ -9424,7 +9447,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1654
-1 DEAT
+1 DEAT Y
 1 FAMS @F543@
 0 @I1083@ INDI
 1 NAME Julien /BAHON/
@@ -9432,7 +9455,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1667
-1 DEAT
+1 DEAT Y
 1 OCCU Métayer à La Porte de Talhouët
 1 FAMS @F545@
 0 @I1084@ INDI
@@ -9441,7 +9464,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1667
-1 DEAT
+1 DEAT Y
 1 FAMS @F545@
 0 @I1085@ INDI
 1 NAME Pierre /LE CADRE/
@@ -9459,7 +9482,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1665
-1 DEAT
+1 DEAT Y
 1 FAMS @F544@
 0 @I1087@ INDI
 1 NAME Pierre /ROUXEL/
@@ -9467,7 +9490,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1685
-1 DEAT
+1 DEAT Y
 1 FAMS @F532@
 0 @I1088@ INDI
 1 NAME Xx /XX/
@@ -9475,7 +9498,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1685
-1 DEAT
+1 DEAT Y
 1 FAMS @F532@
 0 @I1089@ INDI
 1 NAME Sylvestre /ORJUBIN/
@@ -9483,7 +9506,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1687
-1 DEAT
+1 DEAT Y
 1 FAMS @F533@
 0 @I1090@ INDI
 1 NAME Xx /XX/
@@ -9491,7 +9514,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1687
-1 DEAT
+1 DEAT Y
 1 FAMS @F533@
 0 @I1091@ INDI
 1 NAME Pierre /CHERON/
@@ -9528,7 +9551,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1607
-1 DEAT
+1 DEAT Y
 1 FAMS @F447@
 0 @I1095@ INDI
 1 NAME Yves /LECOINTE/
@@ -9549,7 +9572,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1607
-1 DEAT
+1 DEAT Y
 1 FAMS @F562@
 0 @I1098@ INDI
 1 NAME Mathurine /LE CADRE/
@@ -9569,7 +9592,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1630
-1 DEAT
+1 DEAT Y
 1 FAMS @F426@
 0 @I1100@ INDI
 1 NAME Anne /GUILLEMEAUX/
@@ -9585,7 +9608,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1607
-1 DEAT
+1 DEAT Y
 1 FAMS @F478@
 0 @I1102@ INDI
 1 NAME Pierre /MAHE/
@@ -9615,7 +9638,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1669
-1 DEAT
+1 DEAT Y
 1 FAMS @F601@
 0 @I1105@ INDI
 1 NAME Marie /CHERON/
@@ -9624,7 +9647,7 @@
 1 BIRT
 2 DATE 13 JUL 1667
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F602@
 1 FAMS @F601@
 0 @I1106@ INDI
@@ -9667,7 +9690,7 @@
 1 BIRT
 2 DATE 20 AUG 1605
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F604@
 1 FAMS @F603@
 0 @I1110@ INDI
@@ -9676,7 +9699,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1585
-1 DEAT
+1 DEAT Y
 1 FAMS @F604@
 0 @I1111@ INDI
 1 NAME Julienne /BURBAN/
@@ -9684,7 +9707,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1587
-1 DEAT
+1 DEAT Y
 1 FAMC @F605@
 1 FAMS @F604@
 0 @I1112@ INDI
@@ -9694,7 +9717,7 @@
 1 BIRT
 2 DATE BEF 1580
 2 PLAC Malansac, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F600@
 0 @I1113@ INDI
 1 NAME Jean /DANET/
@@ -9752,7 +9775,7 @@
 1 BIRT
 2 DATE BEF 1621
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F608@
 0 @I1118@ INDI
 1 NAME Yves /DANIEL/
@@ -9861,7 +9884,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1608
-1 DEAT
+1 DEAT Y
 1 FAMS @F614@
 0 @I1127@ INDI
 1 NAME Pierre /PESTELAUD/
@@ -9947,7 +9970,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1613
-1 DEAT
+1 DEAT Y
 1 FAMS @F618@
 0 @I1135@ INDI
 1 NAME Guillaume /DAUPHIN/
@@ -9984,7 +10007,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1642
-1 DEAT
+1 DEAT Y
 1 FAMS @F593@
 0 @I1139@ INDI
 1 NAME Julien /THAUMOUR/
@@ -9992,7 +10015,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1550
-1 DEAT
+1 DEAT Y
 1 FAMS @F585@
 0 @I1140@ INDI
 1 NAME Yvonne /LEFEUVRE/
@@ -10000,7 +10023,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1552
-1 DEAT
+1 DEAT Y
 1 FAMS @F585@
 0 @I1141@ INDI
 1 NAME Pierre /THAUMOUR/
@@ -10011,7 +10034,7 @@
 2 PLAC Caden, 56220, Morbihan, Bretagne, FRANCE
 1 BAPM
 3 CONC CAS veuve de Jean DAUPHIN
-1 DEAT
+1 DEAT Y
 1 FAMC @F619@
 1 FAMS @F586@
 0 @I1142@ INDI
@@ -10030,7 +10053,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1537
-1 DEAT
+1 DEAT Y
 1 FAMS @F619@
 0 @I1144@ INDI
 1 NAME Marie /LUCAS/
@@ -10038,7 +10061,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1539
-1 DEAT
+1 DEAT Y
 1 FAMS @F619@
 0 @I1145@ INDI
 1 NAME Bonaventure /BODRUAL/
@@ -10047,7 +10070,7 @@
 1 BIRT
 2 DATE 07 DEC 1552
 2 PLAC Caden, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F620@
 1 FAMS @F587@
 0 @I1146@ INDI
@@ -10056,7 +10079,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1580
-1 DEAT
+1 DEAT Y
 1 FAMS @F587@
 0 @I1147@ INDI
 1 NAME Guyon /BODRUAL/
@@ -10064,7 +10087,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1529
-1 DEAT
+1 DEAT Y
 1 FAMS @F620@
 0 @I1148@ INDI
 1 NAME Philipe /GUYODO/
@@ -10072,7 +10095,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1531
-1 DEAT
+1 DEAT Y
 1 FAMS @F620@
 0 @I1149@ INDI
 1 NAME Claude /NAEL/
@@ -10080,7 +10103,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1600
-1 DEAT
+1 DEAT Y
 1 FAMS @F549@
 0 @I1150@ INDI
 1 NAME Jeanne /NORMAND/
@@ -10088,7 +10111,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1600
-1 DEAT
+1 DEAT Y
 1 FAMS @F549@
 0 @I1151@ INDI
 1 NAME Julien /EON/
@@ -10096,7 +10119,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1567
-1 DEAT
+1 DEAT Y
 1 FAMS @F589@
 0 @I1152@ INDI
 1 NAME Jeanne /STEPHAN/
@@ -10104,7 +10127,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1569
-1 DEAT
+1 DEAT Y
 1 FAMS @F589@
 0 @I1153@ INDI
 1 NAME François /CAUDAR/
@@ -10112,7 +10135,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1573
-1 DEAT
+1 DEAT Y
 1 FAMS @F588@
 0 @I1154@ INDI
 1 NAME Jean /NORMAND/
@@ -10120,7 +10143,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1585
-1 DEAT
+1 DEAT Y
 1 FAMS @F584@
 0 @I1155@ INDI
 1 NAME Jeanne /LOUER/
@@ -10128,7 +10151,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1587
-1 DEAT
+1 DEAT Y
 1 FAMS @F584@
 0 @I1156@ INDI
 1 NAME Julien /GONDET/
@@ -10136,7 +10159,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1619
-1 DEAT
+1 DEAT Y
 1 FAMS @F590@
 0 @I1157@ INDI
 1 NAME Vincente /FLOURÉE/
@@ -10144,7 +10167,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1621
-1 DEAT
+1 DEAT Y
 1 FAMC @F621@
 1 FAMS @F590@
 0 @I1158@ INDI
@@ -10163,7 +10186,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1637
-1 DEAT
+1 DEAT Y
 1 FAMS @F592@
 0 @I1160@ INDI
 1 NAME Julien /LUCAS/
@@ -10171,7 +10194,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1609
-1 DEAT
+1 DEAT Y
 1 FAMS @F574@
 0 @I1161@ INDI
 1 NAME Jeanne /DERON/
@@ -10179,7 +10202,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1611
-1 DEAT
+1 DEAT Y
 1 FAMS @F574@
 0 @I1162@ INDI
 1 NAME François /BURBAN/
@@ -10187,7 +10210,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1587
-1 DEAT
+1 DEAT Y
 1 FAMC @F605@
 1 FAMS @F576@
 0 @I1163@ INDI
@@ -10196,7 +10219,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1589
-1 DEAT
+1 DEAT Y
 1 FAMS @F576@
 0 @I1164@ INDI
 1 NAME François /GUILLEMIN/
@@ -10204,7 +10227,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1585
-1 DEAT
+1 DEAT Y
 1 FAMS @F577@
 0 @I1165@ INDI
 1 NAME Perrine /HOUSSET/
@@ -10212,7 +10235,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1587
-1 DEAT
+1 DEAT Y
 1 FAMS @F577@
 0 @I1166@ INDI
 1 NAME Xx /LE POULTE/
@@ -10220,7 +10243,7 @@
 1 BIRT
 2 DATE BEF 1590
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F597@
 0 @I1167@ INDI
 1 NAME Pierre /DAYON/
@@ -10312,7 +10335,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1553
-1 DEAT
+1 DEAT Y
 1 FAMS @F624@
 0 @I1176@ INDI
 1 NAME Jeanne /MARQUIER/
@@ -10331,7 +10354,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1535
-1 DEAT
+1 DEAT Y
 1 FAMS @F625@
 0 @I1178@ INDI
 1 NAME Yvonne /POTIER/
@@ -10339,7 +10362,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1537
-1 DEAT
+1 DEAT Y
 1 FAMS @F625@
 0 @I1179@ INDI
 1 NAME Xx /BURBAN/
@@ -10347,7 +10370,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1567
-1 DEAT
+1 DEAT Y
 1 FAMS @F605@
 0 @I1180@ INDI
 1 NAME Guillaume /GUEZO/
@@ -10381,7 +10404,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1583
-1 DEAT
+1 DEAT Y
 1 FAMS @F621@
 0 @I1183@ INDI
 1 NAME Jeanne /MAHE/
@@ -10389,7 +10412,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1585
-1 DEAT
+1 DEAT Y
 1 FAMS @F621@
 0 @I1184@ INDI
 1 NAME Guy /PAUTREMAT/
@@ -10417,7 +10440,7 @@
 1 SEX M
 1 BIRT
 2 DATE 1688
-1 DEAT
+1 DEAT Y
 1 OCCU Boulanger, laboureur
 1 FAMC @F628@
 1 FAMS @F511@
@@ -10427,7 +10450,7 @@
 1 BIRT
 2 DATE 21 JUN 1691
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F629@
 1 FAMS @F511@
 0 @I1188@ INDI
@@ -10436,7 +10459,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1697
-1 DEAT
+1 DEAT Y
 1 FAMS @F512@
 0 @I1189@ INDI
 1 NAME Julienne /FAGO/
@@ -10446,7 +10469,7 @@
 2 DATE 12 FEB 1680
 2 PLAC Molac, 56230, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F630@
 1 FAMS @F512@
 0 @I1190@ INDI
@@ -10495,7 +10518,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1650
-1 DEAT
+1 DEAT Y
 1 FAMC @F632@
 1 FAMS @F630@
 0 @I1195@ INDI
@@ -10504,7 +10527,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1652
-1 DEAT
+1 DEAT Y
 1 FAMC @F633@
 1 FAMS @F630@
 0 @I1196@ INDI
@@ -10513,7 +10536,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1630
-1 DEAT
+1 DEAT Y
 1 FAMS @F632@
 0 @I1197@ INDI
 1 NAME Jacquette /LE VIAVANT/
@@ -10541,14 +10564,14 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1623
-1 DEAT
+1 DEAT Y
 1 FAMS @F633@
 0 @I1200@ INDI
 1 NAME Pierre /CLERO/
 1 SEX M
 1 BIRT
 2 DATE BEF 1648
-1 DEAT
+1 DEAT Y
 1 FAMC @F633@
 1 FAMS @F540@
 0 @I1201@ INDI
@@ -10558,7 +10581,7 @@
 1 BIRT
 2 DATE BEF 1669
 2 PLAC Sérent, 56460, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F629@
 0 @I1202@ INDI
 1 NAME Marie /MORIN/
@@ -10567,7 +10590,7 @@
 1 BIRT
 2 DATE BEF 1671
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F629@
 0 @I1203@ INDI
 1 NAME Julien /GERGAUD/
@@ -10577,7 +10600,7 @@
 2 DATE 16 AUG 1593
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F634@
 1 FAMS @F595@
 0 @I1204@ INDI
@@ -10588,7 +10611,7 @@
 2 DATE 10 MAR 1596
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 BAPM
-1 DEAT
+1 DEAT Y
 1 FAMC @F635@
 1 FAMS @F595@
 0 @I1205@ INDI
@@ -10597,7 +10620,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1573
-1 DEAT
+1 DEAT Y
 1 FAMS @F634@
 2 CONC , par la "branche SANTERRE"
 2 CONC 1726>Barthelemy GERGAUD 1704-1753
@@ -10609,7 +10632,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1575
-1 DEAT
+1 DEAT Y
 1 FAMS @F634@
 0 @I1207@ INDI
 1 NAME Guillaume /LE MOUEX/
@@ -10617,7 +10640,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1576
-1 DEAT
+1 DEAT Y
 1 FAMS @F635@
 0 @I1208@ INDI
 1 NAME Jeanne /MARTIN/
@@ -10645,7 +10668,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1599
-1 DEAT
+1 DEAT Y
 1 FAMC @F636@
 1 FAMS @F626@
 0 @I1211@ INDI
@@ -10664,7 +10687,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1604
-1 DEAT
+1 DEAT Y
 1 FAMS @F627@
 0 @I1213@ INDI
 1 NAME Xx /CRESNOUX/
@@ -10672,7 +10695,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1579
-1 DEAT
+1 DEAT Y
 1 FAMS @F636@
 0 @I1214@ INDI
 1 NAME Xx /TATARD/
@@ -10680,7 +10703,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1579
-1 DEAT
+1 DEAT Y
 1 FAMC @F637@
 1 FAMS @F636@
 0 @I1215@ INDI
@@ -10689,14 +10712,14 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1550
-1 DEAT
+1 DEAT Y
 1 FAMS @F637@
 0 @I1216@ INDI
 1 NAME Xx /XX/
 1 SEX F
 1 BIRT
 2 DATE BEF 1550
-1 DEAT
+1 DEAT Y
 1 FAMS @F637@
 0 @I1217@ INDI
 1 NAME Jagu /DANIEL/
@@ -10704,7 +10727,7 @@
 1 SEX M
 1 BIRT
 2 DATE BEF 1597
-1 DEAT
+1 DEAT Y
 1 FAMS @F613@
 0 @I1218@ INDI
 1 NAME Julienne /HALLIER/
@@ -10742,7 +10765,7 @@
 1 BIRT
 2 DATE BEF 1641
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F550@
 1 FAMS @F399@
 0 @I1222@ INDI
@@ -10750,14 +10773,14 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1643
-1 DEAT
+1 DEAT Y
 1 FAMS @F399@
 0 @I1223@ INDI
 1 NAME René /MARTIN/
 1 SEX M
 1 BIRT
 2 DATE BEF 1646
-1 DEAT
+1 DEAT Y
 1 OCCU Laboureur
 1 FAMS @F400@
 0 @I1224@ INDI
@@ -10765,7 +10788,7 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1650
-1 DEAT
+1 DEAT Y
 1 FAMC @F638@
 1 FAMS @F400@
 0 @I1225@ INDI
@@ -10782,14 +10805,14 @@
 1 SEX F
 1 BIRT
 2 DATE BEF 1630
-1 DEAT
+1 DEAT Y
 1 FAMS @F638@
 0 @I1227@ INDI
 1 NAME Xx /RUBAUD/
 1 SEX M
 1 BIRT
 2 DATE BEF 1612
-1 DEAT
+1 DEAT Y
 1 FAMS @F551@
 2 CONC 650 dans le registre
 0 @I1228@ INDI
@@ -10845,7 +10868,7 @@
 0 @I1232@ INDI
 1 NAME Mathurin (Père /DELTÉ/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F639@
 0 @I1233@ INDI
 1 NAME Pierre, Marie /BRUNEL/
@@ -10854,7 +10877,7 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Pierre_Marie.sosa_26.1857-03-27.N.56-Serent.jpg">Acte de naissance</a>
 2 DATE 29 MAR 1857
 2 PLAC Sérent, 56460, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 OCCU Cantonnier
 1 FAMC @F640@
 1 FAMS @F641@
@@ -10865,7 +10888,7 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUTIN_Marie_Joseph.sosa_27.1862-04-12.N.56-Bohal.jpg">Acte de naissance</a>
 2 DATE 12 APR 1862
 2 PLAC Bohal, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 OCCU Cultivatrice
 1 FAMC @F642@
 1 FAMS @F641@
@@ -10876,7 +10899,7 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Angele_Marie_Francoise.sosa_13.1890-07-23.N.56-Bohal.jpg">Acte de naissance</a>
 2 DATE 23 JUL 1890
 2 PLAC Bohal, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 OCCU Sans profession
 1 FAMC @F641@
 1 FAMS @F6@
@@ -10913,7 +10936,7 @@
 0 @I1239@ INDI
 1 NAME Mathurine /DREAN/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F642@
 0 @I1240@ INDI
 1 NAME Mathurin /BRUNEL/
@@ -10921,7 +10944,7 @@
 1 BIRT
 2 DATE 01 AUG 1805
 2 PLAC Saint-Guyomard, 56460, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F643@
 0 @I1241@ INDI
 1 NAME Perrine /GRUGUEL/
@@ -10942,17 +10965,17 @@
 0 @I1243@ INDI
 1 NAME Cécile /LANOË/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F644@
 0 @I1244@ INDI
 1 NAME Joseph /GAREL/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F645@
 0 @I1245@ INDI
 1 NAME Guillemette /LE BRETON/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F645@
 0 @I1246@ INDI
 1 NAME Jean-Marie /CHARUEL/
@@ -10982,7 +11005,8 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Francois.sosa_48.1819-02-05.N.56-Saint_Laurent.jpg">Acte de naissance</a>
 2 DATE 05 FEB 1819
 2 PLAC Saint-Laurent-Sur-Oust, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Francois.sosa_48.1887-01-10.D.56-Saint_Marcel.jpg">Acte de décès</a>
 1 OCCU Tisserand
 1 FAMC @F648@
 1 FAMS @F646@
@@ -10993,7 +11017,8 @@
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Anne_Marie_Mathurine.sosa_49.1818-11-21.N.56-Saint_Marcel.jpg">Acte de naissance</a>
 2 DATE 21 NOV 1818
 2 PLAC Saint-Marcel, 56140, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Anne_Marie_Mathurine.sosa_49.1897-02-03.D.56-Saint_Marcel.jpg">Acte de décès</a>
 1 FAMC @F649@
 1 FAMS @F646@
 0 @I1250@ INDI
@@ -11014,7 +11039,7 @@
 1 BIRT
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MACE_Yvonne.sosa_97.1782-04-01.N.56-Saint-Laurent-sur-Oust.jpg">Acte de naissance</a>
 2 PLAC Saint-Nicolas-Du-Tertre, 56910, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MACE_Yvonne.sosa_97.1859-10-31.D.56-Saint-Laurent-sur-Oust.jpg">Acte de décès</a>
 1 FAMS @F648@
 0 @I1252@ INDI
@@ -11023,7 +11048,7 @@
 1 BIRT
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Pierre.sosa_98.1790-09-20.N.56-Saint-Marcel.jpg">Acte de naissance</a>
 2 DATE BET 1790 AND 1791
-1 DEAT
+1 DEAT Y
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Pierre.sosa_98.1856-04-06.D.56-Saint-Marcel.jpg">Acte de décès</a>
 1 OCCU Coordonnier
 1 FAMC @F651@
@@ -11031,7 +11056,7 @@
 0 @I1253@ INDI
 1 NAME Charlotte /VILLEROY/
 1 SEX F
-1 DEAT
+1 DEAT Y
 2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/VILERY_Charlotte.sosa_99.1857-09-26.D.56-Saint-Marcel.jpg">Acte de décès</a>
 1 FAMS @F649@
 0 @I1254@ INDI
@@ -11050,27 +11075,27 @@
 0 @I1256@ INDI
 1 NAME Anne /MAYET/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F639@
 0 @I1257@ INDI
 1 NAME Joseph /DORÉ/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F652@
 0 @I1258@ INDI
 1 NAME Marie /COUDRAY/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F652@
 0 @I1259@ INDI
 1 NAME Michel - /CHARUEL/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F650@
 0 @I1260@ INDI
 1 NAME Anne /MENANT ?/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F650@
 0 @I1261@ INDI
 1 NAME Mathurin, Marie /CHARUEL/
@@ -11248,9 +11273,11 @@
 1 NAME François /OUISSE/
 1 SEX M
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUISSE_François.sosa_116.1796-08-06.N.44-Prinquiau.jpg">Acte de naissance</a>
 2 DATE 06 AUG 1796
 2 PLAC [L'Escuray] - Prinquiau, 44260, Loire-Atlantique, Pays De La Loire, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUISSE_François.sosa_116.1836-07-12.D.44-Prinquiau.jpg">Acte de décès</a>
 2 DATE 12 JUL 1836
 2 PLAC [La Haie Sèche] - Prinquiau, 44260, Loire-Atlantique, Pays De La Loire, FRANCE
 1 OCCU Cultivateur Laboureur
@@ -11260,9 +11287,11 @@
 1 NAME Jeanne /COCHARD/
 1 SEX F
 1 BIRT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COCHARD_Jeanne.sosa_117.1801-11-02.N.44-Prinquiau.jpg">Acte de naissance</a>
 2 DATE 02 NOV 1801
 2 PLAC [La Haie Sèche] - Prinquiau, 44260, Loire-Atlantique, Pays De La Loire, FRANCE
 1 DEAT
+2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COCHARD_Jeanne.sosa_117.1874-05-11.D.44-Prinquiau.jpg">Acte de décès</a>
 2 DATE 11 MAY 1874
 2 PLAC [La Chudais] - Prinquiau, 44260, Loire-Atlantique, Pays De La Loire, FRANCE
 1 OCCU Cultivatrice
@@ -12263,7 +12292,7 @@
 0 @I1383@ INDI
 1 NAME Marie  Ou Perrine /LE GOUESTRE/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F713@
 0 @I1384@ INDI
 1 NAME Jacques /LE GUIDOUX/
@@ -12342,7 +12371,7 @@
 0 @I1390@ INDI
 1 NAME Lucas /DU BOIS/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F723@
 0 @I1391@ INDI
 1 NAME Jeanne /EVENET/
@@ -12354,19 +12383,19 @@
 0 @I1392@ INDI
 1 NAME Jacquette /DU BOIS/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMC @F723@
 1 FAMS @F724@
 0 @I1393@ INDI
 1 NAME Jean /TASSIN/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMC @F725@
 1 FAMS @F724@
 0 @I1394@ INDI
 1 NAME Guillaume /TASSIN/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F725@
 0 @I1395@ INDI
 1 NAME Jacques /LE GUIDOUX/
@@ -12511,7 +12540,7 @@
 0 @I1408@ INDI
 1 NAME Jeanne /DANY/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F722@
 0 @I1409@ INDI
 1 NAME Julien /PLANTARD/
@@ -12531,14 +12560,14 @@
 1 BIRT
 2 DATE BEF 1600
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F721@
 0 @I1411@ INDI
 1 NAME Jeanne /BROHAN/
 1 SEX F
 1 BIRT
 2 DATE BEF 1595
-1 DEAT
+1 DEAT Y
 1 FAMS @F721@
 0 @I1412@ INDI
 1 NAME "Yves" /GIQUEL/
@@ -12587,7 +12616,7 @@
 1 SEX M
 1 BIRT
 2 DATE ABT 1595
-1 DEAT
+1 DEAT Y
 1 FAMS @F736@
 0 @I1417@ INDI
 1 NAME Rolande /LE GOFF/
@@ -12703,12 +12732,12 @@
 0 @I1427@ INDI
 1 NAME Guillaume /EVENARD/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F745@
 0 @I1428@ INDI
 1 NAME Mathurine /LE BOTERF/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F745@
 0 @I1429@ INDI
 1 NAME Jean /LE CADRE/
@@ -12835,27 +12864,27 @@
 1 BIRT
 2 DATE 26 JUN 1613
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F754@
 1 FAMS @F753@
 0 @I1440@ INDI
 1 NAME Jeanne /LE GUEN/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F753@
 0 @I1441@ INDI
 1 NAME Abel /RIVAL/
 1 SEX M
 1 BIRT
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F731@
 0 @I1442@ INDI
 1 NAME Jacquette /LE MAUX/
 1 SEX F
 1 BIRT
 2 PLAC Molac, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F731@
 0 @I1443@ INDI
 1 NAME Jean /LE GAL/
@@ -12902,7 +12931,7 @@
 1 BIRT
 2 DATE BEF 1600
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F750@
 0 @I1448@ INDI
 1 NAME Laurence /LE BOT/
@@ -12919,7 +12948,7 @@
 1 SEX M
 1 BIRT
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F749@
 0 @I1450@ INDI
 1 NAME Jean /MOISSARD/
@@ -12946,7 +12975,7 @@
 1 SEX M
 1 BIRT
 2 PLAC [Kermorin] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F732@
 0 @I1453@ INDI
 1 NAME Perrine /GOUPIL/
@@ -12996,21 +13025,21 @@
 1 BIRT
 2 DATE ABT 1580
 2 PLAC [Bourg] - Questembert, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMS @F755@
 0 @I1459@ INDI
 1 NAME Jeanne /GUEHO/
 1 SEX F
 1 BIRT
 2 DATE ABT 1580
-1 DEAT
+1 DEAT Y
 1 FAMS @F755@
 0 @I1460@ INDI
 1 NAME Guillaume /LE NEVE/
 1 SEX M
 1 BIRT
 2 DATE BEF 1600
-1 DEAT
+1 DEAT Y
 1 FAMS @F757@
 0 @I1461@ INDI
 1 NAME Julienne /EVENO/
@@ -13058,7 +13087,7 @@
 0 @I1465@ INDI
 1 NAME Thomas /GAREL/
 1 SEX M
-1 DEAT
+1 DEAT Y
 1 FAMS @F715@
 0 @I1466@ INDI
 1 NAME Guillaume /CRANEGUY/
@@ -13077,7 +13106,7 @@
 0 @I1468@ INDI
 1 NAME Julienne /PIERRE/
 1 SEX F
-1 DEAT
+1 DEAT Y
 1 FAMS @F720@
 0 @I1469@ INDI
 1 NAME Guy /GAREL/
@@ -13097,12 +13126,12 @@
 1 BIRT
 2 DATE ABT 1656
 2 PLAC Molac, 56230, Morbihan, Bretagne, FRANCE
-1 DEAT
+1 DEAT Y
 1 FAMC @F724@
 1 FAMS @F727@
 0 @F1@ FAM
 1 HUSB @I8@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Joseph_Marie.sosa_20.1893-10-21.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Joseph_Marie.sosa_20.1893-10-21.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I9@
 1 CHIL @I1@
 0 @F2@ FAM
@@ -13117,7 +13146,7 @@
 2 DATE 21 AUG 1892
 2 PLAC Ploërmel, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I3@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Joseph_Marie.sosa_16.1892-08-25.M.56-Ploermel.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Joseph_Marie.sosa_16.1892-08-25.M.56-Ploermel.jpg">Acte de mariage</a>
 1 WIFE @I442@
 1 CHIL @I2@
 0 @F4@ FAM
@@ -13132,7 +13161,7 @@
 2 DATE 07 JUL 1861
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I14@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Francois.sosa_32.1861-07-07.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Francois.sosa_32.1861-07-07.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I15@
 1 CHIL @I3@
 1 CHIL @I11@
@@ -13141,6 +13170,7 @@
 2 DATE 16 SEP 1919
 2 PLAC Paris, 75000, Paris, Île-De-France, FRANCE
 1 HUSB @I1261@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Mathurin_Marie.sosa_12.1919-09-16.M.75-Paris_17e.jpg">Acte de mariage</a>
 1 WIFE @I1235@
 1 CHIL @I4@
 0 @F7@ FAM
@@ -13170,7 +13200,7 @@
 1 CHIL @I5@
 0 @F9@ FAM
 1 HUSB @I180@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Jean_Marie.sosa_28.1889-04-30.M.56-Questembert.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Jean_Marie.sosa_28.1889-04-30.M.56-Questembert.jpg">Acte de mariage</a>
 1 WIFE @I181@
 1 CHIL @I6@
 0 @F10@ FAM
@@ -13178,12 +13208,12 @@
 2 DATE 27 JUL 1895
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I10@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Joseph_Marie.sosa_22.1895-07-27.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Joseph_Marie.sosa_22.1895-07-27.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I11@
 1 CHIL @I7@
 0 @F11@ FAM
 1 HUSB @I12@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Pierre_Marie.sosa_40.1862-10-18.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Pierre_Marie.sosa_40.1862-10-18.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I477@
 1 CHIL @I8@
 0 @F12@ FAM
@@ -13191,19 +13221,19 @@
 2 DATE 19 FEB 1859
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I556@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHOTARD_Francois.sosa_42.1859-02-19.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHOTARD_Francois.sosa_42.1859-02-19.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I587@
 1 CHIL @I9@
 0 @F13@ FAM
 1 HUSB @I31@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Mathurin.sosa_44.1853-05-25.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Mathurin.sosa_44.1853-05-25.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I32@
 1 CHIL @I10@
 0 @F14@ FAM
 1 MARR
 2 DATE 09 JUL 1835
 1 HUSB @I544@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Jean.sosa_80.1825-07-09.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Jean.sosa_80.1825-07-09.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I13@
 1 CHIL @I12@
 0 @F15@ FAM
@@ -13218,7 +13248,7 @@
 2 DATE 23 NOV 1807
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I16@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Louis_Marc.sosa_64.1807-11-23.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MINIER_Louis_Marc.sosa_64.1807-11-23.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I17@
 1 CHIL @I14@
 0 @F17@ FAM
@@ -13226,7 +13256,7 @@
 2 DATE 30 MAR 1813
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I18@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Marc.sosa_66.1813-03-30.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/COMMANDOUX_Marc.sosa_66.1813-03-30.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I19@
 1 CHIL @I15@
 0 @F18@ FAM
@@ -13292,7 +13322,7 @@
 2 DATE 09 FEB 1813
 2 PLAC [Bourg] - Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I27@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHOTARD_Guillaume.sosa_84.1813-02-09.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHOTARD_Guillaume.sosa_84.1813-02-09.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I552@
 1 CHIL @I556@
 0 @F29@ FAM
@@ -13328,7 +13358,7 @@
 2 DATE 09 FEB 1813
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I33@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Pierre.sosa_88.1813-02-09.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/HAMERY_Pierre.sosa_88.1813-02-09.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I34@
 1 CHIL @I31@
 0 @F34@ FAM
@@ -13336,7 +13366,7 @@
 2 DATE 01 JUL 1805
 2 PLAC Monterrein, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I35@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SIMON_Mathurin.sosa_90.1805-07-05.M.56-Monterrein.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SIMON_Mathurin.sosa_90.1805-07-05.M.56-Monterrein.jpg">Acte de mariage</a>
 1 WIFE @I36@
 1 CHIL @I32@
 0 @F35@ FAM
@@ -13765,7 +13795,7 @@
 2 DATE 14 MAY 1834
 2 PLAC Questembert, 56230, Morbihan, Bretagne, FRANCE
 1 HUSB @I631@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Jean_Louis.sosa_56.1834-05-14.M.56-Questembert.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Jean_Louis.sosa_56.1834-05-14.M.56-Questembert.jpg">Acte de mariage</a>
 1 WIFE @I632@
 1 CHIL @I180@
 0 @F120@ FAM
@@ -13773,7 +13803,7 @@
 2 DATE 22 NOV 1852
 2 PLAC Besné, 44160, Loire-Atlantique, Pays De La Loire, FRANCE
 1 HUSB @I661@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUISSE_Placide.sosa_58.1852-11-22.M.44-Besne.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUISSE_Placide.sosa_58.1852-11-22.M.44-Besne.jpg">Acte de mariage</a>
 1 WIFE @I662@
 1 CHIL @I181@
 0 @F121@ FAM
@@ -13781,7 +13811,7 @@
 2 DATE 26 JUL 1897
 2 PLAC Carentoir, 56910, Morbihan, Bretagne, FRANCE
 1 HUSB @I183@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Constant_Mathurin.sosa_18.1897-07-26.M.56-Carentoir.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Constant_Mathurin.sosa_18.1897-07-26.M.56-Carentoir.jpg">Acte de mariage</a>
 1 WIFE @I184@
 1 CHIL @I182@
 0 @F122@ FAM
@@ -13789,16 +13819,17 @@
 2 DATE 21 AUG 1865
 2 PLAC Carentoir, 56910, Morbihan, Bretagne, FRANCE
 1 HUSB @I185@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Julien.sosa_36.1865-08-21.M.56-Carentoir.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Julien.sosa_36.1865-08-21.M.56-Carentoir.jpg">Acte de mariage</a>
 1 WIFE @I186@
 1 CHIL @I183@
 0 @F123@ FAM
 1 HUSB @I369@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SOREL_Pierre_Marie_Jean_Barnabe.sosa_38.1865-11-25.M.35-La_Gacilly.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SOREL_Pierre_Marie_Jean_Barnabe.sosa_38.1865-11-25.M.35-La_Gacilly.jpg">Acte de mariage</a>
 1 WIFE @I370@
 1 CHIL @I184@
 0 @F124@ FAM
 1 HUSB @I241@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHEVRIER_Julien.sosa_72.1824-06-10.M.35-Renac.jpg">Acte de mariage</a>
 1 WIFE @I242@
 1 CHIL @I185@
 0 @F125@ FAM
@@ -13806,7 +13837,7 @@
 2 DATE 12 MAY 1813
 2 PLAC La Gacilly, 56200, Morbihan, Bretagne, FRANCE
 1 HUSB @I187@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MEHAUD_Jean.sosa_74.1813-05-12.M.56-La_Gacilly.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/MEHAUD_Jean.sosa_74.1813-05-12.M.56-La_Gacilly.jpg">Acte de mariage</a>
 1 WIFE @I188@
 1 CHIL @I186@
 0 @F126@ FAM
@@ -14210,10 +14241,12 @@
 1 CHIL @I364@
 0 @F217@ FAM
 1 HUSB @I433@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SOREL_Pierre_Marie.sosa_76.1835-02-15.M.35-Bruc-Sur-Aff.jpg">Acte de mariage</a>
 1 WIFE @I432@
 1 CHIL @I369@
 0 @F218@ FAM
 1 HUSB @I372@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BELLAMY_Joseph_Marie_Jean_Barnabe.sosa_78.1846-07-25.M.56-La_Gacilly.jpg">Acte de mariage</a>
 1 WIFE @I371@
 1 CHIL @I370@
 0 @F219@ FAM
@@ -14337,6 +14370,7 @@
 1 CHIL @I429@
 0 @F249@ FAM
 1 HUSB @I436@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BELLAVOIR_Joseph.sosa_154.1813-03-11.M.35-Bruc-sur-Aff.jpg">Acte de mariage</a>
 1 WIFE @I437@
 1 CHIL @I432@
 0 @F250@ FAM
@@ -14353,7 +14387,7 @@
 1 CHIL @I437@
 0 @F253@ FAM
 1 HUSB @I1263@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/RUAUD_Joseph_Marie.sosa_34.1861-06-07.M.56-Ploermel.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/RUAUD_Joseph_Marie.sosa_34.1861-06-07.M.56-Ploermel.jpg">Acte de mariage</a>
 1 WIFE @I1264@
 1 CHIL @I442@
 0 @F254@ FAM
@@ -14425,7 +14459,7 @@
 2 DATE 22 MAY 1821
 2 PLAC Augan, 56800, Morbihan, Bretagne, FRANCE
 1 HUSB @I494@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/THOMAS_Armel.sosa_82.1821-05-22.M.56-Augan.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/THOMAS_Armel.sosa_82.1821-05-22.M.56-Augan.jpg">Acte de mariage</a>
 1 WIFE @I462@
 1 CHIL @I477@
 0 @F265@ FAM
@@ -14631,7 +14665,7 @@
 1 CHIL @I538@
 0 @F296@ FAM
 1 HUSB @I586@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DANION_Joseph.sosa_86.1813-06-09.M.56-Guer.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DANION_Joseph.sosa_86.1813-06-09.M.56-Guer.jpg">Acte de mariage</a>
 1 WIFE @I551@
 1 CHIL @I587@
 0 @F297@ FAM
@@ -14841,7 +14875,7 @@
 2 DATE 12 FEB 1794
 2 PLAC Questembert, 56230, Morbihan, Bretagne, FRANCE
 1 HUSB @I635@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Louis_Mathurin.sosa_112.1794-02-12.M.56-Questembert.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/PLANTARD_Louis_Mathurin.sosa_112.1794-02-12.M.56-Questembert.jpg">Acte de mariage</a>
 1 WIFE @I636@
 1 CHIL @I631@
 0 @F332@ FAM
@@ -14931,10 +14965,12 @@
 2 DATE 28 OCT 1822
 2 PLAC Prinquiau, 44260, Loire-Atlantique, Pays De La Loire, FRANCE
 1 HUSB @I1274@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUISSE_François.sosa_116.1822-10-28.M.44-Prinquiau.jpg">Acte de mariage</a>
 1 WIFE @I1275@
 1 CHIL @I661@
 0 @F348@ FAM
 1 HUSB @I663@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/RICORDEL_Julien.sosa_118.1817-12-31.M.44-Besné.jpg">Acte de mariage</a>
 1 WIFE @I664@
 1 CHIL @I662@
 0 @F349@ FAM
@@ -15029,7 +15065,7 @@
 2 DATE 23 NOV 1864
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 HUSB @I1229@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/ROUILLE_Joseph_Marie.sosa_60.1864-11-23.M.56-Pluherlin.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/ROUILLE_Joseph_Marie.sosa_60.1864-11-23.M.56-Pluherlin.jpg">Acte de mariage</a>
 1 WIFE @I1230@
 1 CHIL @I710@
 0 @F369@ FAM
@@ -15054,6 +15090,7 @@
 2 PLAC Saint-Congard, 56140, Morbihan, Bretagne, FRANCE
 3 CONC lage Bignac
 1 HUSB @I711@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/ROUILLE_Joseph.sosa_120.1836-01-26.M.56-Saint-Congard.jpg">Acte de mariage</a>
 1 WIFE @I712@
 1 CHIL @I1229@
 0 @F372@ FAM
@@ -15075,6 +15112,7 @@
 2 DATE 28 JAN 1828
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 HUSB @I713@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BENOIT_Julien.sosa_122.1828-01-28.M.56-Pluherlin.jpg">Acte de mariage</a>
 1 WIFE @I714@
 1 CHIL @I1230@
 0 @F375@ FAM
@@ -15550,7 +15588,7 @@
 1 WIFE @I802@
 1 CHIL @I798@
 0 @F442@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1091@
 1 WIFE @I1092@
 1 CHIL @I800@
@@ -15829,7 +15867,7 @@
 2 DATE 28 NOV 1865
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 HUSB @I879@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SANTERRE_Pierre_Marie_Julien.sosa_62.1965-11-28.M.56-Pleucadeuc.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SANTERRE_Pierre_Marie_Julien.sosa_62.1965-11-28.M.56-Pleucadeuc.jpg">Acte de mariage</a>
 1 WIFE @I880@
 1 CHIL @I878@
 0 @F485@ FAM
@@ -15837,7 +15875,7 @@
 2 DATE 08 FEB 1820
 2 PLAC Pleucadeuc, 56140, Morbihan, Bretagne, FRANCE
 1 HUSB @I881@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SANTERRE_Julien.sosa_124.1820-02-08.M.56-Pleucadeuc.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/SANTERRE_Julien.sosa_124.1820-02-08.M.56-Pleucadeuc.jpg">Acte de mariage</a>
 1 WIFE @I882@
 1 CHIL @I879@
 0 @F486@ FAM
@@ -15845,7 +15883,7 @@
 2 DATE 04 FEB 1829
 2 PLAC Pluherlin, 56220, Morbihan, Bretagne, FRANCE
 1 HUSB @I883@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DANILET_Louis.sosa_126.1829-02-04.M.56-Pluherlin.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DANILET_Louis.sosa_126.1829-02-04.M.56-Pluherlin.jpg">Acte de mariage</a>
 1 WIFE @I884@
 1 CHIL @I880@
 0 @F487@ FAM
@@ -16022,7 +16060,7 @@
 1 WIFE @I908@
 1 CHIL @I904@
 0 @F511@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1186@
 1 WIFE @I1187@
 1 CHIL @I905@
@@ -16269,7 +16307,7 @@
 1 WIFE @I1011@
 1 CHIL @I953@
 0 @F547@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I955@
 1 WIFE @I956@
 1 CHIL @I957@
@@ -16865,7 +16903,7 @@
 1 WIFE @I1226@
 1 CHIL @I1224@
 0 @F639@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1232@
 1 WIFE @I1256@
 1 CHIL @I1254@
@@ -16874,7 +16912,7 @@
 2 DATE 21 NOV 1851
 2 PLAC Saint-Guyomard, 56460, Morbihan, Bretagne, FRANCE
 1 HUSB @I1236@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Mathurin.sosa_52.1851-11-21.M.56-Saint-Guyomard.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Mathurin.sosa_52.1851-11-21.M.56-Saint-Guyomard.jpg">Acte de mariage</a>
 1 WIFE @I1237@
 1 CHIL @I1233@
 0 @F641@ FAM
@@ -16882,27 +16920,27 @@
 2 DATE 27 JUL 1886
 2 PLAC Bohal, 56140, Morbihan, Bretagne, FRANCE
 1 HUSB @I1233@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Pierre_Marie.sosa_26.1886-07-27.M.56-Bohal.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/BRUNEL_Pierre_Marie.sosa_26.1886-07-27.M.56-Bohal.jpg">Acte de mariage</a>
 1 WIFE @I1234@
 1 CHIL @I1235@
 0 @F642@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1238@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUTIN_Gilles.sosa_54.1861-07-16.M.56-Molac.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/OUTIN_Gilles.sosa_54.1861-07-16.M.56-Molac.jpg">Acte de mariage</a>
 1 WIFE @I1239@
 1 CHIL @I1234@
 0 @F643@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1240@
 1 WIFE @I1241@
 1 CHIL @I1236@
 0 @F644@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1242@
 1 WIFE @I1243@
 1 CHIL @I1237@
 0 @F645@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1244@
 1 WIFE @I1245@
 1 CHIL @I1242@
@@ -16911,28 +16949,29 @@
 2 DATE 12 NOV 1843
 2 PLAC Saint-Marcel, 56140, Morbihan, Bretagne, FRANCE
 1 HUSB @I1248@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Francois.sosa_48.1843-11-12.M.56-Saint_Marcel.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Francois.sosa_48.1843-11-12.M.56-Saint_Marcel.jpg">Acte de mariage</a>
 1 WIFE @I1249@
 1 CHIL @I1246@
 0 @F647@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1246@
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Jean_Marie.sosa_24.1888-04-28.M.56-Malestroit.jpg">Acte de mariage</a>
 1 WIFE @I1247@
 1 CHIL @I1261@
 0 @F648@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1250@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Pierre.sosa_96.1816-02-20.M.56-Saint-Laurent-Sur-Oust.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/CHARUEL_Pierre.sosa_96.1816-02-20.M.56-Saint-Laurent-Sur-Oust.jpg">Acte de mariage</a>
 1 WIFE @I1251@
 1 CHIL @I1248@
 0 @F649@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1252@
-2 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Pierre.sosa_98.1814-08-31.M.56-Malestroit.jpg">Acte de mariage</a>
+1 SOUR <a href="https://raw.githubusercontent.com/minier-francois-genealogie/data/main/actes/DELTE_Pierre.sosa_98.1814-08-31.M.56-Malestroit.jpg">Acte de mariage</a>
 1 WIFE @I1253@
 1 CHIL @I1249@
 0 @F650@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1259@
 1 WIFE @I1260@
 1 CHIL @I1250@
@@ -16944,7 +16983,7 @@
 1 WIFE @I1255@
 1 CHIL @I1252@
 0 @F652@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1257@
 1 WIFE @I1258@
 1 CHIL @I1255@
@@ -17290,7 +17329,7 @@
 1 WIFE @I1378@
 1 CHIL @I1374@
 0 @F713@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1382@
 1 WIFE @I1383@
 1 CHIL @I1380@
@@ -17319,7 +17358,7 @@
 1 WIFE @I1385@
 1 CHIL @I1395@
 0 @F718@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1388@
 1 WIFE @I1389@
 1 CHIL @I1385@
@@ -17331,27 +17370,27 @@
 1 WIFE @I1399@
 1 CHIL @I1386@
 0 @F720@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1467@
 1 WIFE @I1468@
 1 CHIL @I1387@
 0 @F721@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1410@
 1 WIFE @I1411@
 1 CHIL @I1388@
 0 @F722@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1407@
 1 WIFE @I1408@
 1 CHIL @I1389@
 0 @F723@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1390@
 1 WIFE @I1391@
 1 CHIL @I1392@
 0 @F724@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1393@
 1 WIFE @I1392@
 1 CHIL @I1470@
@@ -17387,7 +17426,7 @@
 1 WIFE @I1402@
 1 CHIL @I1400@
 0 @F730@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1403@
 1 WIFE @I1404@
 1 CHIL @I1401@
@@ -17401,7 +17440,7 @@
 1 WIFE @I1442@
 1 CHIL @I1402@
 0 @F732@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1452@
 1 WIFE @I1453@
 1 CHIL @I1403@
@@ -17413,7 +17452,7 @@
 1 WIFE @I1406@
 1 CHIL @I1409@
 0 @F734@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1412@
 1 WIFE @I1413@
 1 CHIL @I1406@
@@ -17425,7 +17464,7 @@
 1 WIFE @I1424@
 1 CHIL @I1422@
 0 @F736@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1416@
 1 WIFE @I1417@
 1 CHIL @I1414@
@@ -17437,7 +17476,7 @@
 1 WIFE @I1415@
 1 CHIL @I1429@
 0 @F738@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1445@
 1 WIFE @I1446@
 1 CHIL @I1415@
@@ -17456,7 +17495,7 @@
 1 WIFE @I1432@
 1 CHIL @I1420@
 0 @F741@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1422@
 1 WIFE @I1423@
 1 CHIL @I1421@
@@ -17475,12 +17514,12 @@
 1 WIFE @I1426@
 1 CHIL @I1424@
 0 @F744@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1450@
 1 WIFE @I1451@
 1 CHIL @I1425@
 0 @F745@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1427@
 1 WIFE @I1428@
 1 CHIL @I1426@
@@ -17509,17 +17548,17 @@
 1 HUSB @I1449@
 1 CHIL @I1434@
 0 @F750@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1447@
 1 WIFE @I1448@
 1 CHIL @I1435@
 0 @F751@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1437@
 1 WIFE @I1438@
 1 CHIL @I1436@
 0 @F752@ FAM
-1 MARR
+1 MARR Y
 1 HUSB @I1443@
 1 WIFE @I1444@
 1 CHIL @I1437@
