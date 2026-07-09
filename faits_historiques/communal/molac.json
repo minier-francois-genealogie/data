@@ -1,0 +1,57 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1100",
+    "fin": "2026",
+    "libelle": "Baronnie de Molac",
+    "description": "Ancien centre seigneurial du Morbihan.",
+    "commune": "Molac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Molac",
+    "description": "Bourg du pays de Vannes.",
+    "commune": "Molac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Secteur du Porhoët touché par la Chouannerie.",
+    "commune": "Molac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Molac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Molac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

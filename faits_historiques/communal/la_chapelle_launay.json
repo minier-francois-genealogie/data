@@ -1,0 +1,57 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1161",
+    "fin": "2026",
+    "libelle": "Abbaye de Blanche-Couronne",
+    "description": "Abbaye bénédictine fondée au XIIe siècle ; moines jusqu'à la Révolution.",
+    "commune": "La Chapelle-Launay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de La Chapelle-Launay",
+    "description": "Capella de Alneto ; deux seigneuries (Mareil et Blanche-Couronne).",
+    "commune": "La Chapelle-Launay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793-12-23",
+    "fin": "1793-12",
+    "libelle": "Derniers combats vendéens",
+    "description": "Après Savenay, résistance des survivants vendéens dans les bois de Blanche-Couronne.",
+    "commune": "La Chapelle-Launay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "La Chapelle-Launay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "La commune reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "La Chapelle-Launay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

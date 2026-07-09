@@ -1,0 +1,46 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Bouvron",
+    "description": "Commune du pays de Blain, Brière nord.",
+    "commune": "Bouvron",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Guerres civiles de l'Ouest",
+    "description": "Chouannerie dans le pays nantais.",
+    "commune": "Bouvron",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Bouvron",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Bouvron reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Bouvron",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

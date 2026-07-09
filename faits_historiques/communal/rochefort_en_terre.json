@@ -1,0 +1,79 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1100",
+    "fin": "2026",
+    "libelle": "Cité médiévale de Rochefort-en-Terre",
+    "description": "Château et bourg ; classé parmi les plus beaux villages de France.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Rochefort",
+    "description": "Chef-lieu de canton et district en 1790.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1793",
+    "libelle": "Prise du château par les chouans",
+    "description": "Roche-des-Trois ; trois républicains tués lors de la prise du château.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1882",
+    "fin": "1950",
+    "libelle": "Desserte par le Tacot du Morbihan",
+    "description": "La gare de Rochefort favorise l'activité du bourg.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1907",
+    "fin": "1937",
+    "libelle": "Restauration du château par Alfred Klots",
+    "description": "Renaissance du site par la famille Klots.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Rochefort-En-Terre",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

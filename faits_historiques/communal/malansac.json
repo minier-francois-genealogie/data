@@ -1,0 +1,79 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0847",
+    "fin": "1100",
+    "libelle": "Paroisse et fondations religieuses",
+    "description": "Mentions au cartulaire de Redon ; prieurés de la Mongée et couvent des Cordeliers de Bodelio.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1750",
+    "fin": "1920",
+    "libelle": "Poterie de Malansac",
+    "description": "Production céramique réputée ; l'une des rares en Bretagne sud.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Malansac",
+    "description": "Paroisse du pays de Rochefort.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Secteur de la châtellenie de Rochefort, prise du château par les chouans en 1793.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1862",
+    "fin": "1950",
+    "libelle": "Gare de Malansac",
+    "description": "Ligne Rennes–Redon puis Tacot du Morbihan.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Malansac",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

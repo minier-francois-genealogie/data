@@ -1,0 +1,72 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création du département d'Ille-et-Vilaine",
+    "description": "Découpage révolutionnaire ; Rennes devient chef-lieu.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1500",
+    "fin": "1789",
+    "libelle": "Parlement de Bretagne à Rennes",
+    "description": "Institution souveraine de justice et d'enregistrement pour la province.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie en Ille-et-Vilaine",
+    "description": "Mobilisation royaliste dans les campagnes rennaises et de l'ouest du département.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "CULTURE",
+    "debut": "1842",
+    "fin": "1842",
+    "libelle": "Ligne ferroviaire Paris–Rennes",
+    "description": "Raccordement de la Bretagne orientale au réseau national.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Résistance en Ille-et-Vilaine",
+    "description": "Maquis du Mont Mouchet (limite sud) et réseaux urbains à Rennes.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de Rennes",
+    "description": "Reprise de la capitale bretonne par les Alliés le 4 août 1944.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "2016",
+    "fin": "2026",
+    "libelle": "Rennes, métropole régionale",
+    "description": "Ille-et-Vilaine au cœur de la grande région Bretagne.",
+    "departement": "Ille-et-Vilaine",
+    "region": "Bretagne"
+  }
+]

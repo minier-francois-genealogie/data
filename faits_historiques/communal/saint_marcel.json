@@ -1,0 +1,57 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Saint-Marcel",
+    "description": "Commune du pays de Redon, au confluent de l'Oust et de la Vilaine.",
+    "commune": "Saint-Marcel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Secteur du Porhoët touché par la Chouannerie.",
+    "commune": "Saint-Marcel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1835",
+    "fin": "1960",
+    "libelle": "Port et activité fluviale",
+    "description": "Port sur l'Oust ; écluses et commerce fluvial vers Redon et Nantes.",
+    "commune": "Saint-Marcel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Saint-Marcel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Saint-Marcel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

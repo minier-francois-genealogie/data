@@ -1,0 +1,35 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1789",
+    "fin": "1789",
+    "libelle": "Prise de la Bastille",
+    "description": "Événement fondateur de la Révolution à Paris.",
+    "commune": "Paris",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1871",
+    "fin": "1871",
+    "libelle": "Commune de Paris",
+    "description": "Insurrection et répression de mai 1871.",
+    "commune": "Paris",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1968",
+    "fin": "1968",
+    "libelle": "Mai 68 à Paris",
+    "description": "Mouvement étudiant et grève générale.",
+    "commune": "Paris",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  }
+]

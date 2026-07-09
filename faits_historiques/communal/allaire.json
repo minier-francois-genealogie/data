@@ -1,0 +1,68 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0878",
+    "fin": "0878",
+    "libelle": "Couronne ducale d'Alain le Grand",
+    "description": "Alain le Grand reçoit la couronne de Bretagne dans l'église d'Allaire.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1100",
+    "fin": "1790",
+    "libelle": "Paroisse primitive d'Allaire",
+    "description": "Territoire englobant Béganne, Rieux, Saint-Jean-la-Poterie et Saint-Gorgon.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune d'Allaire",
+    "description": "Bourg du pays de Redon, sur la route Vannes–Redon.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Mobilisation royaliste dans les campagnes.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Allaire",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

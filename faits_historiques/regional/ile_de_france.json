@@ -1,0 +1,74 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1500",
+    "fin": "1789",
+    "libelle": "Paris, capitale du royaume de France",
+    "description": "Centre politique, judiciaire et administratif de la monarchie.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "CULTURE",
+    "debut": "1682",
+    "fin": "1682",
+    "libelle": "Installation de la cour à Versailles",
+    "description": "Louis XIV fixe la cour à Versailles ; essor de l'ouest parisien.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création du département de la Seine",
+    "description": "Organisation révolutionnaire du territoire autour de Paris.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1871",
+    "fin": "1871",
+    "libelle": "Commune de Paris",
+    "description": "Insurrection révolutionnaire dans la capitale après la guerre de 1870.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1961",
+    "fin": "1961",
+    "libelle": "Création de la région Parisienne",
+    "description": "Première structuration administrative de l'espace francilien.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1976",
+    "fin": "1976",
+    "libelle": "Naissance de la région Île-de-France",
+    "description": "Remplacement de la région parisienne par l'Île-de-France actuelle.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "SCIENCE",
+    "debut": "1977",
+    "fin": "1977",
+    "libelle": "Ouverture du RER parisien",
+    "description": "Première ligne RER ; métropolisation de l'Île-de-France.",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "2016",
+    "fin": "2026",
+    "libelle": "Métropole du Grand Paris",
+    "description": "Projet de gouvernance et de transports pour le territoire francilien.",
+    "region": "Île-de-France"
+  }
+]

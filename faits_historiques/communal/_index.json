@@ -1,0 +1,542 @@
+[
+  {
+    "slug": "allaire",
+    "commune": "Allaire",
+    "code_postal": "56350",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Allaire,56350,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "augan",
+    "commune": "Augan",
+    "code_postal": "56800",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Augan,56800,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "bains_sur_oust",
+    "commune": "Bains-Sur-Oust",
+    "code_postal": "35600",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Bains-Sur-Oust,35600,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "beganne",
+    "commune": "Béganne",
+    "code_postal": "56350",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Béganne,56350,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "beignon",
+    "commune": "Beignon",
+    "code_postal": "56380",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Beignon,56380,Morbihan,Bretagne,FRANCE,Bourg"
+  },
+  {
+    "slug": "besne",
+    "commune": "Besné",
+    "code_postal": "44160",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Besné,44160,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "bohal",
+    "commune": "Bohal",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Bohal,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "bouvron",
+    "commune": "Bouvron",
+    "code_postal": "44130",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Bouvron,44130,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "caden",
+    "commune": "Caden",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Caden,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "campbon",
+    "commune": "Campbon",
+    "code_postal": "44750",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Campbon,44750,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "campeneac",
+    "commune": "Campénéac",
+    "code_postal": "56800",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Campénéac,56800,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "carentoir",
+    "commune": "Carentoir",
+    "code_postal": "56910",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Carentoir,56910,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "caro",
+    "commune": "Caro",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Caro,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "concoret",
+    "commune": "Concoret",
+    "code_postal": "56430",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Concoret,56430,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "crossac",
+    "commune": "Crossac",
+    "code_postal": "44160",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Crossac,44160,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "donges",
+    "commune": "Donges",
+    "code_postal": "44480",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Donges,44480,Loire-Atlantique,Pays De La Loire,FRANCE,Billy"
+  },
+  {
+    "slug": "groix",
+    "commune": "Groix",
+    "code_postal": "56590",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Groix,56590,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "guer",
+    "commune": "Guer",
+    "code_postal": "56800",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Guer,56800,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "la_chapelle_caro",
+    "commune": "La Chapelle-Caro",
+    "code_postal": "56460",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "La Chapelle-Caro,56460,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "la_chapelle_launay",
+    "commune": "La Chapelle-Launay",
+    "code_postal": "44260",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "La Chapelle-Launay,44260,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "la_gacilly",
+    "commune": "La Gacilly",
+    "code_postal": "56200",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "La Gacilly,56200,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "larre",
+    "commune": "Larré",
+    "code_postal": "56230",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Larré,56230,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "lavau_sur_loire",
+    "commune": "Lavau-Sur-Loire",
+    "code_postal": "44260",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Lavau-Sur-Loire,44260,Loire-Atlantique,Pays De La Loire,FRANCE,La Carré"
+  },
+  {
+    "slug": "limerzel",
+    "commune": "Limerzel",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Limerzel,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "lusanger",
+    "commune": "Lusanger",
+    "code_postal": "44590",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Lusanger,44590,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "malansac",
+    "commune": "Malansac",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Malansac,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "malestroit",
+    "commune": "Malestroit",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Malestroit,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "maure_de_bretagne",
+    "commune": "Maure-De-Bretagne",
+    "code_postal": "35330",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Maure-De-Bretagne,35330,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "missillac",
+    "commune": "Missillac",
+    "code_postal": "44780",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Missillac,44780,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "molac",
+    "commune": "Molac",
+    "code_postal": "56230",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Molac,56230,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "monteneuf",
+    "commune": "Monteneuf",
+    "code_postal": "56380",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Monteneuf,56380,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "monterrein",
+    "commune": "Monterrein",
+    "code_postal": "56800",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Monterrein,56800,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "paris",
+    "commune": "Paris",
+    "code_postal": "75000",
+    "departement": "Paris",
+    "region": "Île-De-France",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Paris,75000,Paris,Île-De-France,FRANCE,"
+  },
+  {
+    "slug": "peaule",
+    "commune": "Péaule",
+    "code_postal": "56130",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Péaule,56130,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "peillac",
+    "commune": "Peillac",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Peillac,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "pleucadeuc",
+    "commune": "Pleucadeuc",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Pleucadeuc,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "ploermel",
+    "commune": "Ploërmel",
+    "code_postal": "56800",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Ploërmel,56800,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "pluherlin",
+    "commune": "Pluherlin",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Pluherlin,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "pontchateau",
+    "commune": "Pontchâteau",
+    "code_postal": "44160",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Pontchâteau,44160,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "prinquiau",
+    "commune": "Prinquiau",
+    "code_postal": "44260",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Prinquiau,44260,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "questembert",
+    "commune": "Questembert",
+    "code_postal": "56230",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Questembert,56230,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "renac",
+    "commune": "Renac",
+    "code_postal": "35660",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Renac,35660,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "rennes",
+    "commune": "Rennes",
+    "code_postal": "35000",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Rennes,35000,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "rochefort_en_terre",
+    "commune": "Rochefort-En-Terre",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Rochefort-En-Terre,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "ruffiac",
+    "commune": "Ruffiac",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Ruffiac,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_abraham",
+    "commune": "Saint-Abraham",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Abraham,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_congard",
+    "commune": "Saint-Congard",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Congard,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_grave",
+    "commune": "Saint-Gravé",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Gravé,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_gregoire",
+    "commune": "Saint-Grégoire",
+    "code_postal": "35760",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Grégoire,35760,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_guyomard",
+    "commune": "Saint-Guyomard",
+    "code_postal": "56460",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Guyomard,56460,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_jacut_les_pins",
+    "commune": "Saint-Jacut-Les-Pins",
+    "code_postal": "56220",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Jacut-Les-Pins,56220,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_laurent_sur_oust",
+    "commune": "Saint-Laurent-Sur-Oust",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Laurent-Sur-Oust,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_marcel",
+    "commune": "Saint-Marcel",
+    "code_postal": "56140",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Marcel,56140,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_martin",
+    "commune": "Saint-Martin",
+    "code_postal": "56200",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Martin,56200,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "saint_nicolas_du_tertre",
+    "commune": "Saint-Nicolas-Du-Tertre",
+    "code_postal": "56910",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Saint-Nicolas-Du-Tertre,56910,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "savenay",
+    "commune": "Savenay",
+    "code_postal": "44260",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Savenay,44260,Loire-Atlantique,Pays De La Loire,FRANCE,"
+  },
+  {
+    "slug": "serent",
+    "commune": "Sérent",
+    "code_postal": "56460",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Sérent,56460,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "sixt_sur_aff",
+    "commune": "Sixt-Sur-Aff",
+    "code_postal": "35550",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Sixt-Sur-Aff,35550,Ille-Et-Vilaine,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "sulniac",
+    "commune": "Sulniac",
+    "code_postal": "56250",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Sulniac,56250,Morbihan,Bretagne,FRANCE,"
+  },
+  {
+    "slug": "vannes",
+    "commune": "Vannes",
+    "code_postal": "56000",
+    "departement": "Morbihan",
+    "region": "Bretagne",
+    "pays": "FRANCE",
+    "libelle_brut_exemple": "Vannes,56000,Morbihan,Bretagne,FRANCE,"
+  }
+]

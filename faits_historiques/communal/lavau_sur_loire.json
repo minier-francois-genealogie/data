@@ -1,0 +1,90 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Lavau-Sur-Loire",
+    "description": "Réorganisation communale de la Révolution française.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Guerres civiles de l'Ouest",
+    "description": "Chouannerie ou guerre de Vendée selon les secteurs.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1801",
+    "fin": "1801",
+    "libelle": "Concordat et diocèse de Nantes",
+    "description": "Après le Concordat, la paroisse est rattachée au diocèse de Nantes.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra, comme l'ensemble du département.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1870",
+    "fin": "1871",
+    "libelle": "Épidémie de variole",
+    "description": "Recrudescence des maladies infectieuses pendant la guerre franco-prussienne.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1900",
+    "fin": "1970",
+    "libelle": "Modernisation rurale",
+    "description": "Électrification progressive, voirie, scolarisation et mécanisation agricole.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation ou zone libre selon la période ; résistance locale.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "La commune reste dans la poche allemande de Saint-Nazaire jusqu'au 11 mai 1945.",
+    "commune": "Lavau-Sur-Loire",
+    "departement": "Loire-Atlantique",
+    "region": "Pays De La Loire"
+  }
+]

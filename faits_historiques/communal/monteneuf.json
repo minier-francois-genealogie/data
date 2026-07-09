@@ -1,0 +1,68 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Monteneuf",
+    "description": "Commune des landes de Monteneuf.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Mobilisation royaliste dans les campagnes.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1836",
+    "fin": "1836",
+    "libelle": "Rattachement de la Grée de Callac",
+    "description": "Territoire d'Augan transféré à Monteneuf.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1986",
+    "fin": "2026",
+    "libelle": "Site mégalithique des Landes de Monteneuf",
+    "description": "Alignements de menhirs remis en valeur.",
+    "commune": "Monteneuf",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

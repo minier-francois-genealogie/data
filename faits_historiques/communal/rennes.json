@@ -1,0 +1,35 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1500",
+    "fin": "1789",
+    "libelle": "Siège du parlement de Bretagne",
+    "description": "Rennes, capitale politique de la province.",
+    "commune": "Rennes",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1720",
+    "fin": "1720",
+    "libelle": "Grand incendie de Rennes",
+    "description": "Destruction d'une grande partie du centre-ville.",
+    "commune": "Rennes",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de Rennes",
+    "description": "Reprise de la ville le 4 août 1944.",
+    "commune": "Rennes",
+    "departement": "Ille-Et-Vilaine",
+    "region": "Bretagne"
+  }
+]

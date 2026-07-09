@@ -1,0 +1,330 @@
+[
+  {
+    "type": "MONDE",
+    "categorie": "CULTURE",
+    "debut": "1500",
+    "fin": "1600",
+    "libelle": "Renaissance européenne (apogée)",
+    "description": "Diffusion des humanismes, des arts et des sciences en Europe ; ouverture atlantique."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1517",
+    "fin": "1648",
+    "libelle": "Réforme protestante et fractures religieuses en Europe",
+    "description": "Commencée par Martin Luther ; guerres de Religion et recompositions politiques."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1519",
+    "fin": "1522",
+    "libelle": "Premier tour du monde (expédition Magellan-Elcano)",
+    "description": "Première circumnavigation réussie ; confirmation de la sphericité de la Terre."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1543",
+    "fin": "1543",
+    "libelle": "Révolution copernicienne",
+    "description": "Publication du modèle héliocentrique par Copernic."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1618",
+    "fin": "1648",
+    "libelle": "Guerre de Trente Ans",
+    "description": "Conflit européen majeur mêlant enjeux religieux et dynastiques."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1648",
+    "fin": "1648",
+    "libelle": "Paix de Westphalie",
+    "description": "Fin de la guerre de Trente Ans ; consolidation du système d'États souverains en Europe."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1701",
+    "fin": "1714",
+    "libelle": "Guerre de Succession d'Espagne",
+    "description": "Grand conflit européen pour la succession à la couronne espagnole."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1756",
+    "fin": "1763",
+    "libelle": "Guerre de Sept Ans",
+    "description": "Premier conflit à dimension mondiale (Europe, Amérique, Inde)."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CULTURE",
+    "debut": "1765",
+    "fin": "1789",
+    "libelle": "Siècle des Lumières (fin)",
+    "description": "Diffusion des idées de raison, de droits et de progrès en Europe et en Amérique."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1775",
+    "fin": "1783",
+    "libelle": "Guerre d'indépendance des États-Unis",
+    "description": "Naissance des États-Unis ; modèle républicain moderne."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1789",
+    "fin": "1799",
+    "libelle": "Révolution française",
+    "description": "Chute de l'Ancien Régime ; impact politique et idéologique mondial."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1792",
+    "fin": "1815",
+    "libelle": "Guerres révolutionnaires et napoléoniennes",
+    "description": "Remodelage de l'Europe par les armées révolutionnaires puis impériales."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1815",
+    "fin": "1815",
+    "libelle": "Congrès de Vienne",
+    "description": "Réorganisation de l'Europe après la chute de Napoléon."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1825",
+    "fin": "1825",
+    "libelle": "Première ligne de chemin de fer publique (Stockton-Darlington)",
+    "description": "Accélération de la révolution industrielle et des transports."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1830",
+    "fin": "1848",
+    "libelle": "Vague des révolutions libérales en Europe",
+    "description": "Mouvements réformistes et nationaux dans plusieurs monarchies européennes."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1848",
+    "fin": "1849",
+    "libelle": "Printemps des peuples",
+    "description": "Révolutions simultanées en Europe pour des constitutions et des libertés."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1853",
+    "fin": "1856",
+    "libelle": "Guerre de Crimée",
+    "description": "Conflit européen opposant notamment Russie, France, Royaume-Uni et Ottomans."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1861",
+    "fin": "1865",
+    "libelle": "Guerre de Sécession américaine",
+    "description": "Guerre civile aux États-Unis ; abolition de l'esclavage."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1884",
+    "fin": "1885",
+    "libelle": "Conférence de Berlin (partage de l'Afrique)",
+    "description": "Accélération de la colonisation européenne du continent africain."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1903",
+    "fin": "1903",
+    "libelle": "Premier vol motorisé des frères Wright",
+    "description": "Naissance de l'aviation moderne."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1914",
+    "fin": "1918",
+    "libelle": "Première Guerre mondiale",
+    "description": "Conflit mondial ; bouleversement démographique, politique et territorial."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "PANDEMIE",
+    "debut": "1918",
+    "fin": "1920",
+    "libelle": "Pandémie de grippe espagnole",
+    "description": "Pandémie mondiale à la fin de la Première Guerre mondiale."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CRISE",
+    "debut": "1929",
+    "fin": "1939",
+    "libelle": "Grande Dépression",
+    "description": "Crise économique mondiale après le krach de Wall Street."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1936",
+    "fin": "1939",
+    "libelle": "Guerre d'Espagne",
+    "description": "Conflit civil espagnol, avant-garde des tensions idéologiques de l'entre-deux-guerres."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1939",
+    "fin": "1945",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Conflit mondial ; Shoah, bombardements, reconstruction de l'ordre international."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1945",
+    "fin": "1945",
+    "libelle": "Création de l'Organisation des Nations unies (ONU)",
+    "description": "Institution internationale pour la paix et la coopération après 1945."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1945",
+    "fin": "1945",
+    "libelle": "Ère nucléaire (bombes d'Hiroshima et Nagasaki)",
+    "description": "Première utilisation militaire de l'arme atomique ; équilibre de la terreur."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1947",
+    "fin": "1991",
+    "libelle": "Guerre froide",
+    "description": "Affrontement géopolitique entre États-Unis et URSS ; course aux armements."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1950",
+    "fin": "1953",
+    "libelle": "Guerre de Corée",
+    "description": "Conflit majeur de la guerre froide en Asie."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1957",
+    "fin": "1957",
+    "libelle": "Spoutnik 1 — début de la conquête spatiale",
+    "description": "Premier satellite artificiel en orbite."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "1955",
+    "fin": "1975",
+    "libelle": "Guerre du Vietnam",
+    "description": "Conflit d'ampleur internationale en Indochine."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CRISE",
+    "debut": "1962",
+    "fin": "1962",
+    "libelle": "Crise des missiles de Cuba",
+    "description": "Pic de tension nucléaire entre États-Unis et URSS."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CULTURE",
+    "debut": "1968",
+    "fin": "1968",
+    "libelle": "Mai 68 et contestation mondiale",
+    "description": "Mouvements sociaux et étudiants en Europe et dans le monde."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1969",
+    "fin": "1969",
+    "libelle": "Premier pas sur la Lune (Apollo 11)",
+    "description": "Neil Armstrong et Buzz Aldrin atteignent la surface lunaire."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1989",
+    "fin": "1989",
+    "libelle": "Chute du mur de Berlin",
+    "description": "Symbole de la fin de la division européenne de la guerre froide."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "POLITIQUE",
+    "debut": "1991",
+    "fin": "1991",
+    "libelle": "Dissolution de l'URSS",
+    "description": "Fin de l'Union soviétique ; recompositions en Europe de l'Est."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "SCIENCE",
+    "debut": "1991",
+    "fin": "2000",
+    "libelle": "Generalisation d'Internet au public",
+    "description": "WWW et réseaux numériques transforment communications et économie mondiale."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CRISE",
+    "debut": "2001",
+    "fin": "2001",
+    "libelle": "Attentats du 11 septembre 2001",
+    "description": "Attaques terroristes aux États-Unis ; impact sécuritaire mondial."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "CRISE",
+    "debut": "2008",
+    "fin": "2009",
+    "libelle": "Crise financière mondiale",
+    "description": "Effondrement immobilier et bancaire ; récession globale."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "PANDEMIE",
+    "debut": "2020",
+    "fin": "2023",
+    "libelle": "Pandémie de COVID-19",
+    "description": "Pandémie mondiale due au coronavirus SARS-CoV-2."
+  },
+  {
+    "type": "MONDE",
+    "categorie": "GUERRE",
+    "debut": "2022",
+    "fin": "2026",
+    "libelle": "Guerre en Ukraine",
+    "description": "Invasion russe de l'Ukraine ; recompositions géopolitiques en Europe."
+  }
+]

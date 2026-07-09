@@ -1,0 +1,79 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0820",
+    "fin": "0820",
+    "libelle": "Donation du machtiern de Pleucadeuc à Roga",
+    "description": "Cartulaire de Redon ; ermitage sur le territoire actuel de Saint-Congard.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "0848",
+    "fin": "0849",
+    "libelle": "Synode de Nominoë à Coët-Leu",
+    "description": "Assemblée religieuse et politique du duc Nominoë au lieu-dit Coët-Leu de Bas.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1100",
+    "fin": "1100",
+    "libelle": "Détachement de la paroisse de Pleucadeuc",
+    "description": "Saint-Congard devient paroisse distincte au XIIe siècle.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Saint-Congard",
+    "description": "Commune du Val de Vilaine ; canton de Rochefort-en-Terre en 1801.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1840",
+    "fin": "1977",
+    "libelle": "Canal de Nantes à Brest et écluses",
+    "description": "Écluses de Beaumont, Foveno et Rieux ; dernière péniche commerciale en 1977.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance dans le Val de Vilaine.",
+    "commune": "Saint-Congard",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

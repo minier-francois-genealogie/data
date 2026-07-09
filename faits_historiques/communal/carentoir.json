@@ -1,0 +1,79 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0100",
+    "fin": "0500",
+    "libelle": "Voie romaine et occupation antique",
+    "description": "Voie Ahès (Angers–Carhaix) ; vestiges gallo-romains sur la butte de Marsac.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1100",
+    "fin": "1790",
+    "libelle": "Paroisse primitive de Carentoir",
+    "description": "Territoire englobant La Gacilly, Quelneuc, Ruffiac, Le Temple et d'autres trèves.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Carentoir",
+    "description": "Chef-lieu ecclésiastique du canton.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Persécutions religieuses",
+    "description": "Arrestation du doyen Le Cerf en 1796 ; vente du prieuré du Temple.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1863",
+    "fin": "1863",
+    "libelle": "Création de la commune de Quelneuc",
+    "description": "Quelneuc est détaché de Carentoir.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Libération le 3 août 1944.",
+    "commune": "Carentoir",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

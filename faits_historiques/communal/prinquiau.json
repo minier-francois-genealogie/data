@@ -1,0 +1,101 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1090",
+    "fin": "1500",
+    "libelle": "Origines : Prehinquel / Prinqueleau",
+    "description": "« Proche de l'eau » ; la Loire atteignait autrefois le bourg.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1385",
+    "fin": "1603",
+    "libelle": "Château de l'Escurays",
+    "description": "Manoir médiéval puis Renaissance ; motte féodale possible dès le IXe siècle.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1771",
+    "fin": "1771",
+    "libelle": "Société Debray pour l'assèchement des marais",
+    "description": "Projet d'assèchement des marais de la commune.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Prinquiau",
+    "description": "Commune rurale entre Brière et Sillon de Bretagne.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793-12",
+    "fin": "1793-12",
+    "libelle": "Bataille de Savenay et refuge vendéen",
+    "description": "Survivants vendéens se cachent dans les bois ; tombe des ossements à Sem.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793-12-22",
+    "fin": "1793-12-23",
+    "libelle": "Refuge de Mme de Lescure à l'Escurays",
+    "description": "La marquise de La Rochejacquelein se réfugie au château après Savenay.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Prinquiau reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1994",
+    "fin": "2026",
+    "libelle": "Rachat du château par la commune",
+    "description": "L'Escurays est acquis par la mairie ; restauration patrimoniale.",
+    "commune": "Prinquiau",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

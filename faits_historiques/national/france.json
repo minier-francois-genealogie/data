@@ -1,0 +1,407 @@
+[
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1500",
+    "fin": "1515",
+    "libelle": "Règne de Louis XII",
+    "description": "Roi de France et duc de Milan ; dernière phase du règne.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1515",
+    "fin": "1547",
+    "libelle": "Règne de François Ier",
+    "description": "Roi de France ; Renaissance française, bataille de Marignan (1515).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1547",
+    "fin": "1559",
+    "libelle": "Règne de Henri II",
+    "description": "Roi de France ; guerres d'Italie, paix de Cateau-Cambrésis (1559).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1559",
+    "fin": "1560",
+    "libelle": "Règne de François II",
+    "description": "Bref règne ; influence des Guise.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1560",
+    "fin": "1574",
+    "libelle": "Règne de Charles IX",
+    "description": "Roi de France ; guerres de Religion, massacre de la Saint-Barthélemy (1572).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1562",
+    "fin": "1598",
+    "libelle": "Guerres de Religion en France",
+    "description": "Huit guerres civiles entre catholiques et protestants.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1574",
+    "fin": "1589",
+    "libelle": "Règne de Henri III",
+    "description": "Roi de France ; crise de succession et Ligue catholique.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1589",
+    "fin": "1610",
+    "libelle": "Règne de Henri IV",
+    "description": "Roi de France et de Navarre ; abjuration protestante (1593), reconstruction du royaume.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1598",
+    "fin": "1598",
+    "libelle": "Édit de Nantes",
+    "description": "Tolérance accordée aux protestants ; fin des guerres de Religion.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1610",
+    "fin": "1643",
+    "libelle": "Règne de Louis XIII",
+    "description": "Roi de France ; règne de Richelieu, affirmation de l'autorité royale.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1648",
+    "fin": "1653",
+    "libelle": "La Fronde",
+    "description": "Révoltes nobiliaires, parlementaires et populaires contre le pouvoir royal.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1643",
+    "fin": "1715",
+    "libelle": "Règne de Louis XIV",
+    "description": "Roi de France ; monarchie absolue, Versailles, guerres européennes.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1685",
+    "fin": "1685",
+    "libelle": "Révocation de l'Édit de Nantes",
+    "description": "Interdiction du protestantisme ; dragonnades et exode huguenot.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1715",
+    "fin": "1774",
+    "libelle": "Règne de Louis XV",
+    "description": "Roi de France ; siècle des Lumières, guerre de Sept Ans, crise financière.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1774",
+    "fin": "1792",
+    "libelle": "Règne de Louis XVI",
+    "description": "Dernier roi de l'Ancien Régime ; crise financière et révolution.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1789",
+    "fin": "1799",
+    "libelle": "Révolution française (période nationale)",
+    "description": "Prise de la Bastille, abolition des privilèges, Terreur, Directoire.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1792",
+    "fin": "1804",
+    "libelle": "Première République",
+    "description": "Abolition de la monarchie ; Convention, Terreur, Directoire.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1804",
+    "fin": "1814",
+    "libelle": "Premier Empire (Napoléon Ier)",
+    "description": "Napoléon Bonaparte empereur des Français ; Code civil (1804).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1804",
+    "fin": "1804",
+    "libelle": "Promulgation du Code civil",
+    "description": "Code Napoléon ; socle du droit civil français.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1814",
+    "fin": "1815",
+    "libelle": "Première Restauration (Louis XVIII)",
+    "description": "Retour de la monarchie après la première abdication de Napoléon.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1815",
+    "fin": "1815",
+    "libelle": "Les Cent-Jours",
+    "description": "Retour éphémère de Napoléon ; défaite à Waterloo.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1815",
+    "fin": "1824",
+    "libelle": "Seconde Restauration (Louis XVIII)",
+    "description": "Monarchie constitutionnelle après le Congrès de Vienne.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1824",
+    "fin": "1830",
+    "libelle": "Règne de Charles X",
+    "description": "Dernier roi de la branche aînée des Bourbons.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1830",
+    "fin": "1848",
+    "libelle": "Monarchie de Juillet (Louis-Philippe Ier)",
+    "description": "Roi des Français ; bourgeoisie au pouvoir, réformes modérées.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "PANDEMIE",
+    "debut": "1832",
+    "fin": "1832",
+    "libelle": "Épidémie de choléra en France",
+    "description": "Première grande vague de choléra en France ; dizaines de milliers de décès.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1848",
+    "fin": "1852",
+    "libelle": "Deuxième République",
+    "description": "République issue de la révolution de 1848 ; suffrage universel masculin.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra en France",
+    "description": "Seconde grande vague nationale ; forte mortalité dans l'Ouest et la Bretagne.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1852",
+    "fin": "1870",
+    "libelle": "Second Empire (Napoléon III)",
+    "description": "Napoléon III empereur ; industrialisation, transformation de Paris.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1870",
+    "fin": "1871",
+    "libelle": "Guerre franco-prussienne",
+    "description": "Défaite française, siège de Paris, annexion de l'Alsace-Moselle.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "PANDEMIE",
+    "debut": "1870",
+    "fin": "1871",
+    "libelle": "Épidémies de variole et de typhoïde",
+    "description": "Recrudescence des maladies infectieuses pendant la guerre et le siège.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1871",
+    "fin": "1871",
+    "libelle": "Commune de Paris",
+    "description": "Insurrection révolutionnaire à Paris après la défaite de 1870.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1870",
+    "fin": "1940",
+    "libelle": "Troisième République",
+    "description": "République parlementaire ; lois scolaires, affaire Dreyfus, loi de 1905.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1905",
+    "fin": "1905",
+    "libelle": "Loi de séparation des Églises et de l'État",
+    "description": "Laïcité républicaine ; fin du concordat en droit interne.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1914",
+    "fin": "1918",
+    "libelle": "France dans la Première Guerre mondiale",
+    "description": "Mobilisation, front occidental, Verdun, victoire alliée.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "PANDEMIE",
+    "debut": "1918",
+    "fin": "1920",
+    "libelle": "Pandémie de grippe espagnole en France",
+    "description": "Plusieurs centaines de milliers de décès en France métropolitaine.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Régime de Vichy",
+    "description": "État français dirigé par Pétain ; collaboration avec l'Allemagne nazie.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Occupation allemande de la France",
+    "description": "Occupation du nord et de la côte atlantique ; Résistance intérieure.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de la France",
+    "description": "Débarquement de Provence et de Normandie ; reprise du territoire.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1946",
+    "fin": "1958",
+    "libelle": "Quatrième République",
+    "description": "République parlementaire d'après-guerre ; reconstruction et décolonisation.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "GUERRE",
+    "debut": "1954",
+    "fin": "1962",
+    "libelle": "Guerre d'Algérie",
+    "description": "Conflit colonial puis guerre d'indépendance ; accords d'Évian (1962).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "REGNE",
+    "debut": "1958",
+    "fin": "2026",
+    "libelle": "Cinquième République",
+    "description": "République issue du retour de De Gaulle ; constitution de 1958 encore en vigueur.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1958",
+    "fin": "1958",
+    "libelle": "Constitution de la Ve République",
+    "description": "Renforcement du pouvoir exécutif ; référendum du 28 septembre 1958.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1975",
+    "fin": "1975",
+    "libelle": "Loi Veil sur l'IVG",
+    "description": "Légalisation de l'interruption volontaire de grossesse.",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1981",
+    "fin": "1995",
+    "libelle": "Alternance socialiste (Mitterrand)",
+    "description": "Première alternance de la Ve République ; abolition de la peine de mort (1981).",
+    "pays": "FR"
+  },
+  {
+    "type": "NATIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "2002",
+    "fin": "2002",
+    "libelle": "Passage à l'euro fiduciaire",
+    "description": "Remplacement du franc par l'euro en France.",
+    "pays": "FR"
+  }
+]

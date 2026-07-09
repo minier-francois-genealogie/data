@@ -1,0 +1,82 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création du département du Morbihan",
+    "description": "Découpage révolutionnaire ; préfecture installée à Vannes.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie dans le Morbihan",
+    "description": "Soulèvements royalistes dans les campagnes du centre et de l'ouest morbihannais.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1795",
+    "fin": "1795",
+    "libelle": "Débarquement de Quiberon",
+    "description": "Expédition royaliste sur la presqu'île de Quiberon ; répression dans le Morbihan.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1795",
+    "fin": "1795",
+    "libelle": "Bataille de Muiron (près d'Auray)",
+    "description": "Victoire républicaine décisive contre les chouans du Morbihan.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "CULTURE",
+    "debut": "1800",
+    "fin": "2026",
+    "libelle": "Patrimoine mégalithique du Morbihan",
+    "description": "Carnac, Locmariaquer et alignements ; identité culturelle du département.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "SCIENCE",
+    "debut": "1882",
+    "fin": "1950",
+    "libelle": "Ligne du « Tacot » du Morbihan",
+    "description": "Chemin de fer secondaire reliant campagnes et bourgs avant la motorisation.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Occupation allemande du Morbihan",
+    "description": "Présence occupante, bases à Lorient et contrôle des voies de communication.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de Vannes et du Morbihan",
+    "description": "Reprise du département par les forces alliées et FFI à l'été 1944.",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

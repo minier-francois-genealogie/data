@@ -1,0 +1,82 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1500",
+    "fin": "1532",
+    "libelle": "Nantes, capitale du duché de Bretagne",
+    "description": "Dernière grande période où Nantes est capitale ducale avant l'union à la France.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la Loire-Inférieure",
+    "description": "Département centré sur Nantes ; nom changé en Loire-Atlantique en 1957.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1598",
+    "fin": "1598",
+    "libelle": "Édit de Nantes",
+    "description": "Proclamation à Nantes de la tolérance religieuse ; symbole majeur pour la ville.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "CULTURE",
+    "debut": "1700",
+    "fin": "1830",
+    "libelle": "Âge d'or maritime de Nantes",
+    "description": "Armateurs, traite négrière et commerce colonial ; richesse urbaine.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Guerre de Vendée et soulèvements de l'Ouest",
+    "description": "Combats et répression dans l'estuaire et les campagnes voisines de Nantes.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1941",
+    "fin": "1941",
+    "libelle": "Loire-Inférieure rattachée au Pays de la Loire",
+    "description": "Séparation administrative durable avec la région Bretagne.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1941",
+    "fin": "1945",
+    "libelle": "Base sous-marine de Saint-Nazaire",
+    "description": "Installation allemande sur l'estuaire ; raids alliés et poche de Saint-Nazaire.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1945",
+    "fin": "1945",
+    "libelle": "Capitulation de la poche de Saint-Nazaire",
+    "description": "Dernière place forte allemande libérée sur le territoire français.",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

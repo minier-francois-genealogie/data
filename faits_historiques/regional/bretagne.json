@@ -1,0 +1,101 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1532",
+    "fin": "1532",
+    "libelle": "Union de la Bretagne à la France",
+    "description": "Traité d'union du duché de Bretagne au royaume de France ; fin de l'indépendance ducale.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1551",
+    "fin": "1551",
+    "libelle": "Édit d'union de la Bretagne",
+    "description": "Renforcement de l'intégration politique et administrative de la Bretagne au royaume.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1664",
+    "fin": "1790",
+    "libelle": "Parlement de Bretagne à Rennes",
+    "description": "Institution judiciaire et politique majeure de la province jusqu'à la Révolution.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création des départements bretons",
+    "description": "Division de la Bretagne en Côtes-du-Nord, Finistère, Ille-et-Vilaine, Loire-Inférieure et Morbihan.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie en Bretagne",
+    "description": "Insurrection royaliste et catholique contre la Révolution ; forte mobilisation rurale.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1795",
+    "fin": "1795",
+    "libelle": "Bataille de Quiberon",
+    "description": "Débarquement royaliste dans le Morbihan ; écrasement par les républicains.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "CULTURE",
+    "debut": "1839",
+    "fin": "1839",
+    "libelle": "Fondation de la revue bretonne « Barzaz Breiz »",
+    "description": "Essor du romantisme breton et du patrimoine culturel régional.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1941",
+    "fin": "1941",
+    "libelle": "Retrait de la Loire-Atlantique de la région Bretagne",
+    "description": "Décision de Vichy ; Nantes et Saint-Nazaire rattachés administrativement à un autre ensemble.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Résistance bretonne pendant l'Occupation",
+    "description": "Réseaux FTP, maquis et sabotages dans les campagnes et ports bretons.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1956",
+    "fin": "2015",
+    "libelle": "Loire-Atlantique hors région Bretagne",
+    "description": "Nantes et la Loire-Atlantique restent dans le Pays de la Loire ; débat identitaire durable.",
+    "region": "Bretagne"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "2016",
+    "fin": "2026",
+    "libelle": "Région Bretagne (fusion administrative)",
+    "description": "Grande région administrative Bretagne sans réintégration de la Loire-Atlantique.",
+    "region": "Bretagne"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Saint-Jacut-Les-Pins",
+    "description": "Réorganisation communale de la Révolution française.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie dans la paroisse",
+    "description": "Mobilisation royaliste dans les campagnes du Morbihan.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1801",
+    "fin": "1801",
+    "libelle": "Concordat et diocèse de Vannes",
+    "description": "Après le Concordat, la paroisse est rattachée au diocèse de Vannes.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra, comme l'ensemble du département.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1870",
+    "fin": "1871",
+    "libelle": "Épidémie de variole",
+    "description": "Recrudescence des maladies infectieuses pendant la guerre franco-prussienne.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1882",
+    "fin": "1950",
+    "libelle": "Desserte par le Tacot du Morbihan",
+    "description": "Ligne à voie étroite du réseau morbihannais.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1900",
+    "fin": "1970",
+    "libelle": "Modernisation rurale",
+    "description": "Électrification progressive, voirie, scolarisation et mécanisation agricole.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale et Occupation",
+    "description": "Réquisitions, contraintes et résistance locale.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération (été 1944)",
+    "description": "Fin de l'Occupation dans la commune.",
+    "commune": "Saint-Jacut-Les-Pins",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

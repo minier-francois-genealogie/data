@@ -1,0 +1,90 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0500",
+    "fin": "0600",
+    "libelle": "Ermites Friard et Secondel",
+    "description": "Vinduneta Insula ; évangélisation par les saints Friard et Secondel, patrons de la paroisse.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Besné",
+    "description": "Commune du pays nantais, au cœur de la Brière.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1793-03-13",
+    "fin": "1793-03-13",
+    "libelle": "Révolte contre la conscription",
+    "description": "La population refuse la levée en masse et manifeste son opposition à la Révolution.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1850",
+    "fin": "1950",
+    "libelle": "Dessèchement des marais et industries",
+    "description": "Achèvement du dessèchement, raffinerie de betteraves et carrières de granit.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1887",
+    "fin": "1893",
+    "libelle": "Construction de l'église Saint-Friard",
+    "description": "L'ancienne église est remplacée ; crypte avec sarcophages mérovingiens de Friard et Secondel.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et contraintes dans la commune.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Besné reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Besné",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

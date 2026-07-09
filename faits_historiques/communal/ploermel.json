@@ -1,0 +1,68 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Ploërmel",
+    "description": "Sous-préfecture du Morbihan.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1793",
+    "libelle": "Bataille de Ploërmel (Chouannerie)",
+    "description": "Affrontements entre républicains et chouans.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1800",
+    "fin": "2026",
+    "libelle": "Sous-préfecture du Morbihan",
+    "description": "Centre administratif et judiciaire du Porhoët.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1882",
+    "fin": "1950",
+    "libelle": "Tacot du Morbihan",
+    "description": "Ploërmel est un nœud du réseau à voie étroite.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "Ploërmel",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création du département de la Seine (Paris)",
+    "description": "Organisation révolutionnaire du territoire parisien.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1789",
+    "fin": "1789",
+    "libelle": "Prise de la Bastille à Paris",
+    "description": "Événement déclencheur symbolique de la Révolution dans la capitale.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1871",
+    "fin": "1871",
+    "libelle": "Commune de Paris",
+    "description": "Insurrection municipale ; semaine sanglante de mai 1871.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1853",
+    "fin": "1870",
+    "libelle": "Travaux d'Haussmann à Paris",
+    "description": "Transformation urbaine : grands boulevards, égouts et alignements.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "SCIENCE",
+    "debut": "1900",
+    "fin": "1900",
+    "libelle": "Ouverture du métro parisien",
+    "description": "Première ligne du métropolitain ; modernisation des transports parisiens.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1964",
+    "fin": "1964",
+    "libelle": "Création du département de Paris (75)",
+    "description": "Paris devient un département à part entière.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "EVENEMENT",
+    "debut": "1968",
+    "fin": "1968",
+    "libelle": "Mai 68 à Paris",
+    "description": "Mouvement étudiant et grève générale ; forte mobilisation dans la capitale.",
+    "departement": "Paris",
+    "region": "Île-de-France"
+  }
+]

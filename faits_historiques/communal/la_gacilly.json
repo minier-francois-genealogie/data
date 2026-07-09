@@ -1,0 +1,68 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de La Gacilly",
+    "description": "Ancienne trève de Carentoir ; chef-lieu de canton.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Mobilisation royaliste dans les campagnes.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Seconde Guerre mondiale",
+    "description": "Occupation et résistance locale.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1959",
+    "fin": "1959",
+    "libelle": "Création d'Yves Rocher à La Gacilly",
+    "description": "Naissance de l'entreprise cosmétique ; essor économique local.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "2003",
+    "fin": "2026",
+    "libelle": "Festival Photo La Gacilly",
+    "description": "Expositions en plein air ; renommée culturelle.",
+    "commune": "La Gacilly",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

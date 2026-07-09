@@ -1,0 +1,24 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1500",
+    "fin": "2026",
+    "libelle": "Île de Groix",
+    "description": "Commune insulaire ; pêche et maritime.",
+    "commune": "Groix",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1909",
+    "fin": "1909",
+    "libelle": "Grève des pêcheurs groisillons",
+    "description": "Conflit social majeur sur l'île.",
+    "commune": "Groix",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

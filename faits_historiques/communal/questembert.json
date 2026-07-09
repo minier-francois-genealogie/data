@@ -1,0 +1,211 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1552",
+    "fin": "1552",
+    "libelle": "Premières Halles de Questembert",
+    "description": "Première mention attestée des Halles, cœur du commerce local.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1675",
+    "fin": "1675",
+    "libelle": "Reconstruction des Halles",
+    "description": "Reconstruction des Halles ; la charpente monumentale est encore visible aujourd'hui.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1719",
+    "fin": "1719",
+    "libelle": "Conspiration de Pontcallec",
+    "description": "Environ 200 gentilshommes et paysans se rassemblent à Kérédren avant l'échec du soulèvement.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1724",
+    "fin": "1787",
+    "libelle": "Missions paroissiales des Lazaristes",
+    "description": "Grandes missions prêchées en 1724, 1737, 1749, 1763, 1775 et 1787.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1789",
+    "fin": "1789",
+    "libelle": "Cahier de doléances",
+    "description": "Rédaction du cahier de doléances et participation aux débuts de la Révolution.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Questembert",
+    "description": "Création officielle de la commune dans le nouveau département du Morbihan.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1791",
+    "fin": "1791",
+    "libelle": "Constitution civile du clergé",
+    "description": "Application de la loi ; fortes tensions religieuses dans la commune.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1793",
+    "libelle": "Combat de Coët-Bihan",
+    "description": "Important affrontement entre républicains et chouans sur le territoire de Questembert.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Chouannerie à Questembert",
+    "description": "Foyer actif de la Chouannerie ; presbytère réquisitionné par les républicains puis incendié par les chouans.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1801",
+    "fin": "1801",
+    "libelle": "Réorganisation religieuse du Concordat",
+    "description": "Reprise progressive de la vie paroissiale après le Concordat.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1845-04-13",
+    "fin": "1845-04-13",
+    "libelle": "Rachat des Halles par la municipalité",
+    "description": "La commune rachète les Halles, auparavant propriété privée.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1862",
+    "fin": "1862",
+    "libelle": "Gare de Questembert",
+    "description": "Mise en service sur la ligne Savenay–Landerneau ; essor des échanges commerciaux.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1880",
+    "fin": "1899",
+    "libelle": "Commerce des grains et foires",
+    "description": "Développement du commerce des grains, foires et marchés dans le sud-est du Morbihan.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1914",
+    "fin": "1918",
+    "libelle": "Première Guerre mondiale",
+    "description": "192 habitants de Questembert meurent pour la France.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "1922-09-18",
+    "fin": "1922-09-18",
+    "libelle": "Classement Monuments historiques",
+    "description": "Les Halles, la chapelle Saint-Michel et plusieurs monuments sont classés.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1939",
+    "fin": "1944",
+    "libelle": "Occupation et Résistance",
+    "description": "La gare de Bel-Air sert au passage d'aviateurs alliés évadés grâce à la Résistance.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de Questembert",
+    "description": "Plusieurs résistants tués ou déportés ; libération durant l'été 1944.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1950",
+    "fin": "1970",
+    "libelle": "Modernisation agricole",
+    "description": "Mécanisation et transformation progressive de l'économie rurale.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "2005",
+    "fin": "2005",
+    "libelle": "Chevaux de trait bretons au service public",
+    "description": "Introduction de chevaux territoriaux pour certaines missions de service public.",
+    "commune": "Questembert",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

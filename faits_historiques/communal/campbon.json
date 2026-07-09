@@ -1,0 +1,68 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0500",
+    "fin": "0700",
+    "libelle": "Pèlerinage à Saint-Victor",
+    "description": "Ermite du VIe ou VIIe siècle ; occupation gallo-romaine attestée.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "POLITIQUE",
+    "debut": "1565",
+    "fin": "1663",
+    "libelle": "Seigneurs du Cambout et duché de Coislin",
+    "description": "Acquisition par les du Cambout ; marquisat puis duché-pairie en 1663.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Campbon",
+    "description": "Châtellenie démembrée de la baronnie de Pontchâteau.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1800",
+    "libelle": "Chouannerie",
+    "description": "Tensions révolutionnaires et mémoire chouanne dans la commune.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Campbon reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Campbon",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

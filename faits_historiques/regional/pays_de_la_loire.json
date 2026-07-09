@@ -1,0 +1,65 @@
+[
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1500",
+    "fin": "1790",
+    "libelle": "Anciennes provinces de l'Ouest (Anjou, Maine, Bretagne nantaise)",
+    "description": "Territoires aujourd'hui répartis entre Pays de la Loire et Bretagne historique.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1793",
+    "fin": "1796",
+    "libelle": "Guerre de Vendée",
+    "description": "Insurrection contre-révolutionnaire dans l'Ouest ; forte répression républicaine.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la Loire-Inférieure",
+    "description": "Département centré sur Nantes et l'estuaire de la Loire.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "POLITIQUE",
+    "debut": "1941",
+    "fin": "1941",
+    "libelle": "Nantes rattachée au Pays de la Loire (amorce)",
+    "description": "Recomposition administrative de l'Ouest sous le régime de Vichy.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1955",
+    "fin": "1955",
+    "libelle": "Création de la région des Pays de la Loire",
+    "description": "Structuration administrative de l'Ouest autour de Nantes, Angers et Le Mans.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1945",
+    "libelle": "Occupation et libération de l'estuaire de la Loire",
+    "description": "Ports stratégiques de Nantes et Saint-Nazaire ; résistance locale.",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "REGIONAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "2016",
+    "fin": "2026",
+    "libelle": "Région Pays de la Loire (statut actuel)",
+    "description": "Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe et Vendée.",
+    "region": "Pays de la Loire"
+  }
+]

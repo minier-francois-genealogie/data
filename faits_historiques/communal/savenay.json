@@ -1,0 +1,46 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Savenay",
+    "description": "Bourg du pays nantais, sur la Loire.",
+    "commune": "Savenay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1793-12-23",
+    "fin": "1793-12-23",
+    "libelle": "Bataille de Savenay",
+    "description": "Défaite vendéenne ; fin de l'armée catholique et royale.",
+    "commune": "Savenay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Savenay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Savenay reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Savenay",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]

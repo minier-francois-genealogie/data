@@ -1,0 +1,22 @@
+{
+  "source_gedcom": "C:\\Projet\\Perso\\genealogie\\github\\data\\ged\\fminier.ged",
+  "nb_plac_distincts": 177,
+  "nb_communes": 60,
+  "nb_regions": 3,
+  "nb_departements": 4,
+  "nb_pays": 1,
+  "pays": [
+    "FRANCE"
+  ],
+  "regions": [
+    "Bretagne",
+    "Île-De-France",
+    "Pays De La Loire"
+  ],
+  "departements": [
+    "Ille-Et-Vilaine",
+    "Loire-Atlantique",
+    "Morbihan",
+    "Paris"
+  ]
+}

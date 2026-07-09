@@ -1,0 +1,46 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "CULTURE",
+    "debut": "0100",
+    "fin": "0100",
+    "libelle": "Cité gallo-romaine de Darioritum (Vannes)",
+    "description": "Ancienne capitale des Venètes ; remparts et cathédrale.",
+    "commune": "Vannes",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "2026",
+    "libelle": "Préfecture du Morbihan",
+    "description": "Vannes est le chef-lieu du département.",
+    "commune": "Vannes",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1940",
+    "fin": "1944",
+    "libelle": "Occupation de Vannes",
+    "description": "Kommandantur et restrictions ; activité clandestine.",
+    "commune": "Vannes",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "EVENEMENT",
+    "debut": "1944",
+    "fin": "1944",
+    "libelle": "Libération de Vannes",
+    "description": "Reprise de la préfecture à l'été 1944.",
+    "commune": "Vannes",
+    "departement": "Morbihan",
+    "region": "Bretagne"
+  }
+]

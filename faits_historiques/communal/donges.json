@@ -1,0 +1,46 @@
+[
+  {
+    "type": "COMMUNAL",
+    "categorie": "ADMINISTRATION",
+    "debut": "1790",
+    "fin": "1790",
+    "libelle": "Création de la commune de Donges",
+    "description": "Commune de l'estuaire de la Loire.",
+    "commune": "Donges",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "PANDEMIE",
+    "debut": "1849",
+    "fin": "1850",
+    "libelle": "Épidémie de choléra",
+    "description": "La commune subit la seconde grande vague de choléra.",
+    "commune": "Donges",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "GUERRE",
+    "debut": "1944-08",
+    "fin": "1945-05-11",
+    "libelle": "Poche de Saint-Nazaire",
+    "description": "Donges reste dans la poche allemande jusqu'au 11 mai 1945.",
+    "commune": "Donges",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  },
+  {
+    "type": "COMMUNAL",
+    "categorie": "SCIENCE",
+    "debut": "1975",
+    "fin": "2026",
+    "libelle": "Raffinerie de Donges",
+    "description": "Grand site industriel pétrolier sur l'estuaire.",
+    "commune": "Donges",
+    "departement": "Loire-Atlantique",
+    "region": "Pays de la Loire"
+  }
+]
