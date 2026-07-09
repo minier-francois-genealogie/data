@@ -1,0 +1,306 @@
+[
+  {
+    "slug": "louis_xii",
+    "nom": "Louis XII",
+    "titre": "Roi de France",
+    "debut": "1498",
+    "fin": "1515",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ludwig_XII._von_Frankreich.jpg/250px-Ludwig_XII._von_Frankreich.jpg"
+  },
+  {
+    "slug": "francois_i",
+    "nom": "François Ier",
+    "titre": "Roi de France",
+    "debut": "1515",
+    "fin": "1547",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/250px-Fran%C3%A7ois_Ier_Louvre.jpg"
+  },
+  {
+    "slug": "henri_ii",
+    "nom": "Henri II",
+    "titre": "Roi de France",
+    "debut": "1547",
+    "fin": "1559",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg/250px-Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg"
+  },
+  {
+    "slug": "francois_ii",
+    "nom": "François II",
+    "titre": "Roi de France",
+    "debut": "1559",
+    "fin": "1560",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg/250px-Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg"
+  },
+  {
+    "slug": "charles_ix",
+    "nom": "Charles IX",
+    "titre": "Roi de France",
+    "debut": "1560",
+    "fin": "1574",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CharlesIX.jpg/250px-CharlesIX.jpg"
+  },
+  {
+    "slug": "henri_iii",
+    "nom": "Henri III",
+    "titre": "Roi de France",
+    "debut": "1574",
+    "fin": "1589",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Henri3France.jpg/250px-Henri3France.jpg"
+  },
+  {
+    "slug": "henri_iv",
+    "nom": "Henri IV",
+    "titre": "Roi de France",
+    "debut": "1589",
+    "fin": "1610",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg/250px-Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg"
+  },
+  {
+    "slug": "louis_xiii",
+    "nom": "Louis XIII",
+    "titre": "Roi de France",
+    "debut": "1610",
+    "fin": "1643",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg/250px-Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg"
+  },
+  {
+    "slug": "louis_xiv",
+    "nom": "Louis XIV",
+    "titre": "Roi de France",
+    "debut": "1643",
+    "fin": "1715",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/250px-Louis_XIV_of_France.jpg"
+  },
+  {
+    "slug": "louis_xv",
+    "nom": "Louis XV",
+    "titre": "Roi de France",
+    "debut": "1715",
+    "fin": "1774",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg/250px-Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg"
+  },
+  {
+    "slug": "louis_xvi",
+    "nom": "Louis XVI",
+    "titre": "Roi de France",
+    "debut": "1774",
+    "fin": "1792",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg/250px-Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg"
+  },
+  {
+    "slug": "napoleon_i",
+    "nom": "Napoléon Ier",
+    "titre": "Empereur des Français",
+    "debut": "1804",
+    "fin": "1815",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg"
+  },
+  {
+    "slug": "louis_xviii",
+    "nom": "Louis XVIII",
+    "titre": "Roi de France",
+    "debut": "1814",
+    "fin": "1824",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg/250px-G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg"
+  },
+  {
+    "slug": "charles_x",
+    "nom": "Charles X",
+    "titre": "Roi de France",
+    "debut": "1824",
+    "fin": "1830",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg/250px-Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg"
+  },
+  {
+    "slug": "louis_philippe",
+    "nom": "Louis-Philippe Ier",
+    "titre": "Roi des Français",
+    "debut": "1830",
+    "fin": "1848",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg/250px-Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg"
+  },
+  {
+    "slug": "napoleon_iii",
+    "nom": "Napoléon III",
+    "titre": "Empereur des Français",
+    "debut": "1852",
+    "fin": "1870",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg/250px-Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg"
+  },
+  {
+    "slug": "mac_mahon",
+    "nom": "Patrice de Mac-Mahon",
+    "titre": "Président de la République",
+    "debut": "1873",
+    "fin": "1879",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Patrice_de_Mac_Mahon.jpg/250px-Patrice_de_Mac_Mahon.jpg"
+  },
+  {
+    "slug": "grevy",
+    "nom": "Jules Grévy",
+    "titre": "Président de la République",
+    "debut": "1879",
+    "fin": "1887",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bonnat_Portrait_of_Jules_Grevy.jpg/250px-Bonnat_Portrait_of_Jules_Grevy.jpg"
+  },
+  {
+    "slug": "carnot",
+    "nom": "Sadi Carnot",
+    "titre": "Président de la République",
+    "debut": "1887",
+    "fin": "1894",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Portrait_officiel_de_Sadi_Carnot.jpg/250px-Portrait_officiel_de_Sadi_Carnot.jpg"
+  },
+  {
+    "slug": "faure",
+    "nom": "Félix Faure",
+    "titre": "Président de la République",
+    "debut": "1895",
+    "fin": "1899",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Felix_Faure.jpg/250px-Felix_Faure.jpg"
+  },
+  {
+    "slug": "loubet",
+    "nom": "Émile Loubet",
+    "titre": "Président de la République",
+    "debut": "1899",
+    "fin": "1903",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%C3%89mile_Loubet.jpg/250px-%C3%89mile_Loubet.jpg"
+  },
+  {
+    "slug": "fallieres",
+    "nom": "Armand Fallières",
+    "titre": "Président de la République",
+    "debut": "1903",
+    "fin": "1913",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Armand_Fallieres.jpg/250px-Armand_Fallieres.jpg"
+  },
+  {
+    "slug": "poincare",
+    "nom": "Raymond Poincaré",
+    "titre": "Président de la République",
+    "debut": "1913",
+    "fin": "1920",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg/250px-Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg"
+  },
+  {
+    "slug": "millerand",
+    "nom": "Alexandre Millerand",
+    "titre": "Président de la République",
+    "debut": "1920",
+    "fin": "1924",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alexandre_Millerand_%28cropped%29.jpg/250px-Alexandre_Millerand_%28cropped%29.jpg"
+  },
+  {
+    "slug": "doumer",
+    "nom": "Paul Doumer",
+    "titre": "Président de la République",
+    "debut": "1931",
+    "fin": "1932",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paul-Doumer.jpg/250px-Paul-Doumer.jpg"
+  },
+  {
+    "slug": "lebrun",
+    "nom": "Albert Lebrun",
+    "titre": "Président de la République",
+    "debut": "1932",
+    "fin": "1940",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg/250px-Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg"
+  },
+  {
+    "slug": "petain",
+    "nom": "Philippe Pétain",
+    "titre": "Chef de l'État (régime de Vichy)",
+    "debut": "1940",
+    "fin": "1944",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P%C3%A9tain_-_Portrait_photographique_1941.jpg/250px-P%C3%A9tain_-_Portrait_photographique_1941.jpg"
+  },
+  {
+    "slug": "de_gaulle_gprf",
+    "nom": "Charles de Gaulle",
+    "titre": "Président du GPRF",
+    "debut": "1944",
+    "fin": "1946",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg"
+  },
+  {
+    "slug": "auriol",
+    "nom": "Vincent Auriol",
+    "titre": "Président de la République",
+    "debut": "1947",
+    "fin": "1954",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg/250px-Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg"
+  },
+  {
+    "slug": "coty",
+    "nom": "René Coty",
+    "titre": "Président de la République",
+    "debut": "1954",
+    "fin": "1959",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ren%C3%A9_Coty_-_1954.jpg/250px-Ren%C3%A9_Coty_-_1954.jpg"
+  },
+  {
+    "slug": "de_gaulle",
+    "nom": "Charles de Gaulle",
+    "titre": "Président de la République",
+    "debut": "1959",
+    "fin": "1969",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg"
+  },
+  {
+    "slug": "pompidou",
+    "nom": "Georges Pompidou",
+    "titre": "Président de la République",
+    "debut": "1969",
+    "fin": "1974",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georges_Pompidou_1969_%28cropped%29.jpg/250px-Georges_Pompidou_1969_%28cropped%29.jpg"
+  },
+  {
+    "slug": "giscard",
+    "nom": "Valéry Giscard d'Estaing",
+    "titre": "Président de la République",
+    "debut": "1974",
+    "fin": "1981",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg/250px-Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg"
+  },
+  {
+    "slug": "mitterrand",
+    "nom": "François Mitterrand",
+    "titre": "Président de la République",
+    "debut": "1981",
+    "fin": "1995",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg/250px-President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg"
+  },
+  {
+    "slug": "chirac",
+    "nom": "Jacques Chirac",
+    "titre": "Président de la République",
+    "debut": "1995",
+    "fin": "2007",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jacques_Chirac_%281997%29_%28cropped%29.jpg/250px-Jacques_Chirac_%281997%29_%28cropped%29.jpg"
+  },
+  {
+    "slug": "sarkozy",
+    "nom": "Nicolas Sarkozy",
+    "titre": "Président de la République",
+    "debut": "2007",
+    "fin": "2012",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicolas_Sarkozy_20220927.jpg/250px-Nicolas_Sarkozy_20220927.jpg"
+  },
+  {
+    "slug": "hollande",
+    "nom": "François Hollande",
+    "titre": "Président de la République",
+    "debut": "2012",
+    "fin": "2017",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg/250px-Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg"
+  },
+  {
+    "slug": "macron",
+    "nom": "Emmanuel Macron",
+    "titre": "Président de la République",
+    "debut": "2017",
+    "fin": "2026",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/250px-Emmanuel_Macron_2025_%28cropped%29.jpg"
+  }
+]
