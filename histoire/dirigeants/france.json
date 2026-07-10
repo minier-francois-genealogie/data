@@ -5,7 +5,19 @@
     "titre": "Roi de France",
     "debut": "1498",
     "fin": "1515",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ludwig_XII._von_Frankreich.jpg/250px-Ludwig_XII._von_Frankreich.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ludwig_XII._von_Frankreich.jpg/250px-Ludwig_XII._von_Frankreich.jpg",
+    "naissance": "1462",
+    "deces": "1515",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Conquête du duché de Milan",
+      "Ordonnance de Villers-Cotterêts"
+    ],
+    "faits_negatifs": [
+      "Guerres d'Italie coûteuses",
+      "Traité de Blois cédant la Bourgogne"
+    ],
+    "lien_predecesseur": "Cousin de Charles VIII"
   },
   {
     "slug": "francois_i",
@@ -13,7 +25,20 @@
     "titre": "Roi de France",
     "debut": "1515",
     "fin": "1547",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/250px-Fran%C3%A7ois_Ier_Louvre.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Fran%C3%A7ois_Ier_Louvre.jpg/250px-Fran%C3%A7ois_Ier_Louvre.jpg",
+    "naissance": "1494",
+    "deces": "1547",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Renaissance à la cour",
+      "Château de Chambord",
+      "Alliance avec Soliman"
+    ],
+    "faits_negatifs": [
+      "Défaite de Pavie (1525)",
+      "Guerres d'Italie prolongées"
+    ],
+    "lien_predecesseur": "Cousin de Louis XII"
   },
   {
     "slug": "henri_ii",
@@ -21,7 +46,19 @@
     "titre": "Roi de France",
     "debut": "1547",
     "fin": "1559",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg/250px-Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg/250px-Portrait_of_King_Henry_II_of_France_%28by_Studio_of_Fran%C3%A7ois_Clouet%29_-_Royal_Collection.jpg",
+    "naissance": "1519",
+    "deces": "1559",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Expansion coloniale (Canada)",
+      "Traité de Cateau-Cambrésis"
+    ],
+    "faits_negatifs": [
+      "Persécutions religieuses",
+      "Chambre ardente contre les protestants"
+    ],
+    "lien_predecesseur": "Fils de François Ier"
   },
   {
     "slug": "francois_ii",
@@ -29,7 +66,18 @@
     "titre": "Roi de France",
     "debut": "1559",
     "fin": "1560",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg/250px-Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg/250px-Portrait_du_roi_de_France_Fran%C3%A7ois_II.jpg",
+    "naissance": "1544",
+    "deces": "1560",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Tentative de conciliation religieuse"
+    ],
+    "faits_negatifs": [
+      "Règne très bref",
+      "Influence de la famille de Guise"
+    ],
+    "lien_predecesseur": "Fils d'Henri II"
   },
   {
     "slug": "charles_ix",
@@ -37,7 +85,18 @@
     "titre": "Roi de France",
     "debut": "1560",
     "fin": "1574",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CharlesIX.jpg/250px-CharlesIX.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CharlesIX.jpg/250px-CharlesIX.jpg",
+    "naissance": "1550",
+    "deces": "1574",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Paix de Saint-Germain (1570)"
+    ],
+    "faits_negatifs": [
+      "Massacre de la Saint-Barthélemy (1572)",
+      "Guerres de Religion"
+    ],
+    "lien_predecesseur": "Frère de François II"
   },
   {
     "slug": "henri_iii",
@@ -45,7 +104,19 @@
     "titre": "Roi de France",
     "debut": "1574",
     "fin": "1589",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Henri3France.jpg/250px-Henri3France.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Henri3France.jpg/250px-Henri3France.jpg",
+    "naissance": "1551",
+    "deces": "1589",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Édit de Nemours",
+      "Entrée à Paris (1590)"
+    ],
+    "faits_negatifs": [
+      "Assassinat du duc de Guise",
+      "Guerres de Religion prolongées"
+    ],
+    "lien_predecesseur": "Frère de Charles IX"
   },
   {
     "slug": "henri_iv",
@@ -53,7 +124,20 @@
     "titre": "Roi de France",
     "debut": "1589",
     "fin": "1610",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg/250px-Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg/250px-Henri_IV_portant_la_croix_du_Saint-Esprit_-_Frans_Pourbus_le_Jeune.jpg",
+    "naissance": "1553",
+    "deces": "1610",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Édit de Nantes (1598)",
+      "Paix civile",
+      "Développement économique"
+    ],
+    "faits_negatifs": [
+      "Conversion au catholicisme controversée",
+      "Assassinat par Ravaillac"
+    ],
+    "lien_predecesseur": "Cousin de Henri III"
   },
   {
     "slug": "louis_xiii",
@@ -61,7 +145,19 @@
     "titre": "Roi de France",
     "debut": "1610",
     "fin": "1643",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg/250px-Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg/250px-Portrait%2C_Louis_XIII_King_of_France%2C_Champaigne.jpg",
+    "naissance": "1601",
+    "deces": "1643",
+    "regime": "Monarchie",
+    "faits_positifs": [
+      "Richelieu consolide l'État",
+      "Victoire contre les Espagnols"
+    ],
+    "faits_negatifs": [
+      "Guerre de Trente Ans coûteuse",
+      "Répression des nobles"
+    ],
+    "lien_predecesseur": "Fils d'Henri IV"
   },
   {
     "slug": "louis_xiv",
@@ -69,7 +165,21 @@
     "titre": "Roi de France",
     "debut": "1643",
     "fin": "1715",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/250px-Louis_XIV_of_France.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/250px-Louis_XIV_of_France.jpg",
+    "naissance": "1638",
+    "deces": "1715",
+    "regime": "Monarchie absolue",
+    "faits_positifs": [
+      "Versailles",
+      "Code noir révisé",
+      "Rayonnement culturel"
+    ],
+    "faits_negatifs": [
+      "Révocation de l'Édit de Nantes",
+      "Guerres ruineuses",
+      "Famine de 1693"
+    ],
+    "lien_predecesseur": "Fils de Louis XIII"
   },
   {
     "slug": "louis_xv",
@@ -77,7 +187,20 @@
     "titre": "Roi de France",
     "debut": "1715",
     "fin": "1774",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg/250px-Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg/250px-Louis_XV_France_by_Louis-Michel_van_Loo_002.jpg",
+    "naissance": "1710",
+    "deces": "1774",
+    "regime": "Monarchie absolue",
+    "faits_positifs": [
+      "École militaire",
+      "Lumières à la cour"
+    ],
+    "faits_negatifs": [
+      "Perte du Canada (1763)",
+      "Affaire Damiens",
+      "Déclin financier"
+    ],
+    "lien_predecesseur": "Arrière-petit-fils de Louis XIV"
   },
   {
     "slug": "louis_xvi",
@@ -85,7 +208,20 @@
     "titre": "Roi de France",
     "debut": "1774",
     "fin": "1792",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg/250px-Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg/250px-Louis_XVI_en_costume_de_sacre_-_Joseph-Siffred_Duplessis.jpg",
+    "naissance": "1754",
+    "deces": "1793",
+    "regime": "Monarchie absolue",
+    "faits_positifs": [
+      "Soutien à la guerre d'indépendance américaine",
+      "Abolition des servitudes"
+    ],
+    "faits_negatifs": [
+      "Révolution française",
+      "Crise financière",
+      "Exécution à la guillotine"
+    ],
+    "lien_predecesseur": "Petit-fils de Louis XV"
   },
   {
     "slug": "napoleon_i",
@@ -93,7 +229,20 @@
     "titre": "Empereur des Français",
     "debut": "1804",
     "fin": "1815",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project_2.jpg",
+    "naissance": "1769",
+    "deces": "1821",
+    "regime": "Ier Empire",
+    "faits_positifs": [
+      "Code civil",
+      "Réforme administrative",
+      "Victoires militaires"
+    ],
+    "faits_negatifs": [
+      "Guerres napoléoniennes",
+      "Blocus continental",
+      "Campagne de Russie"
+    ]
   },
   {
     "slug": "louis_xviii",
@@ -101,7 +250,19 @@
     "titre": "Roi de France",
     "debut": "1814",
     "fin": "1824",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg/250px-G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg/250px-G%C3%A9rard_-_Louis_XVIII_of_France_in_Coronation_Robes.jpg",
+    "naissance": "1755",
+    "deces": "1824",
+    "regime": "Restauration",
+    "faits_positifs": [
+      "Charte constitutionnelle (1814)",
+      "Stabilisation post-révolution"
+    ],
+    "faits_negatifs": [
+      "Terreur blanche",
+      "Occupation étrangère"
+    ],
+    "lien_predecesseur": "Frère de Louis XVI"
   },
   {
     "slug": "charles_x",
@@ -109,7 +270,18 @@
     "titre": "Roi de France",
     "debut": "1824",
     "fin": "1830",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg/250px-Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg/250px-Carlos_X_de_Francia_%28Fran%C3%A7ois_G%C3%A9rard%29.jpg",
+    "naissance": "1757",
+    "deces": "1836",
+    "regime": "Restauration",
+    "faits_positifs": [
+      "Expédition d'Alger (1830)"
+    ],
+    "faits_negatifs": [
+      "Ordonnances de juillet",
+      "Révolution de 1830"
+    ],
+    "lien_predecesseur": "Frère de Louis XVIII"
   },
   {
     "slug": "louis_philippe",
@@ -117,7 +289,19 @@
     "titre": "Roi des Français",
     "debut": "1830",
     "fin": "1848",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg/250px-Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg/250px-Franz_Xaver_Winterhalter_King_Louis_Philippe.jpg",
+    "naissance": "1773",
+    "deces": "1850",
+    "regime": "Monarchie de Juillet",
+    "faits_positifs": [
+      "Développement ferroviaire",
+      "Colonisation algérienne"
+    ],
+    "faits_negatifs": [
+      "Corruption du régime",
+      "Révolution de 1848"
+    ],
+    "lien_predecesseur": "Cousin de Charles X"
   },
   {
     "slug": "napoleon_iii",
@@ -125,7 +309,19 @@
     "titre": "Empereur des Français",
     "debut": "1852",
     "fin": "1870",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg/250px-Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg/250px-Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg",
+    "naissance": "1808",
+    "deces": "1873",
+    "regime": "IIe Empire",
+    "faits_positifs": [
+      "Grands travaux parisiens",
+      "Modernisation économique"
+    ],
+    "faits_negatifs": [
+      "Coup d'État du 2 décembre",
+      "Défaite de Sedan (1870)"
+    ],
+    "lien_predecesseur": "Neveu de Napoléon Ier"
   },
   {
     "slug": "mac_mahon",
@@ -133,7 +329,18 @@
     "titre": "Président de la République",
     "debut": "1873",
     "fin": "1879",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Patrice_de_Mac_Mahon.jpg/250px-Patrice_de_Mac_Mahon.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Patrice_de_Mac_Mahon.jpg/250px-Patrice_de_Mac_Mahon.jpg",
+    "naissance": "1808",
+    "deces": "1893",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Stabilisation républicaine",
+      "Lois constitutionnelles de 1875"
+    ],
+    "faits_negatifs": [
+      "Crise du 16 mai",
+      "Répression de la Commune"
+    ]
   },
   {
     "slug": "grevy",
@@ -141,7 +348,18 @@
     "titre": "Président de la République",
     "debut": "1879",
     "fin": "1887",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bonnat_Portrait_of_Jules_Grevy.jpg/250px-Bonnat_Portrait_of_Jules_Grevy.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bonnat_Portrait_of_Jules_Grevy.jpg/250px-Bonnat_Portrait_of_Jules_Grevy.jpg",
+    "naissance": "1807",
+    "deces": "1891",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Séparation pouvoirs exécutif/législatif",
+      "Paix extérieure"
+    ],
+    "faits_negatifs": [
+      "Affaire Wilson",
+      "Démission forcée"
+    ]
   },
   {
     "slug": "carnot",
@@ -149,7 +367,18 @@
     "titre": "Président de la République",
     "debut": "1887",
     "fin": "1894",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Portrait_officiel_de_Sadi_Carnot.jpg/250px-Portrait_officiel_de_Sadi_Carnot.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Portrait_officiel_de_Sadi_Carnot.jpg/250px-Portrait_officiel_de_Sadi_Carnot.jpg",
+    "naissance": "1837",
+    "deces": "1894",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Lois scolaires laïques",
+      "Alliance avec la Russie"
+    ],
+    "faits_negatifs": [
+      "Assassinat par Caserio",
+      "Crise boulangiste"
+    ]
   },
   {
     "slug": "faure",
@@ -157,7 +386,18 @@
     "titre": "Président de la République",
     "debut": "1895",
     "fin": "1899",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Felix_Faure.jpg/250px-Felix_Faure.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Felix_Faure.jpg/250px-Felix_Faure.jpg",
+    "naissance": "1841",
+    "deces": "1899",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Rapprochement franco-russe",
+      "Exposition universelle 1900"
+    ],
+    "faits_negatifs": [
+      "Affaire Dreyfus",
+      "Mort subite à l'Élysée"
+    ]
   },
   {
     "slug": "loubet",
@@ -165,7 +405,18 @@
     "titre": "Président de la République",
     "debut": "1899",
     "fin": "1903",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%C3%89mile_Loubet.jpg/250px-%C3%89mile_Loubet.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%C3%89mile_Loubet.jpg/250px-%C3%89mile_Loubet.jpg",
+    "naissance": "1838",
+    "deces": "1929",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Entente cordiale (1904)",
+      "Loi sur les associations"
+    ],
+    "faits_negatifs": [
+      "Crise des églises",
+      "Tensions coloniales"
+    ]
   },
   {
     "slug": "fallieres",
@@ -173,7 +424,17 @@
     "titre": "Président de la République",
     "debut": "1903",
     "fin": "1913",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Armand_Fallieres.jpg/250px-Armand_Fallieres.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Armand_Fallieres.jpg/250px-Armand_Fallieres.jpg",
+    "naissance": "1841",
+    "deces": "1931",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Création du Conseil supérieur de la pêche"
+    ],
+    "faits_negatifs": [
+      "Agadir (1911)",
+      "Montée des tensions européennes"
+    ]
   },
   {
     "slug": "poincare",
@@ -181,7 +442,18 @@
     "titre": "Président de la République",
     "debut": "1913",
     "fin": "1920",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg/250px-Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg/250px-Raymond_Poincar%C3%A9_officiel_%28cropped%29.jpg",
+    "naissance": "1860",
+    "deces": "1934",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Victoire de la Marne",
+      "Réforme des retraites"
+    ],
+    "faits_negatifs": [
+      "Première Guerre mondiale",
+      "Occupation du Ruhr"
+    ]
   },
   {
     "slug": "millerand",
@@ -189,7 +461,17 @@
     "titre": "Président de la République",
     "debut": "1920",
     "fin": "1924",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alexandre_Millerand_%28cropped%29.jpg/250px-Alexandre_Millerand_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Alexandre_Millerand_%28cropped%29.jpg/250px-Alexandre_Millerand_%28cropped%29.jpg",
+    "naissance": "1859",
+    "deces": "1943",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Participation à la Conférence de paix"
+    ],
+    "faits_negatifs": [
+      "Conflit avec la Chambre",
+      "Démission forcée"
+    ]
   },
   {
     "slug": "doumer",
@@ -197,7 +479,17 @@
     "titre": "Président de la République",
     "debut": "1931",
     "fin": "1932",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paul-Doumer.jpg/250px-Paul-Doumer.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Paul-Doumer.jpg/250px-Paul-Doumer.jpg",
+    "naissance": "1857",
+    "deces": "1932",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Présidence de la Conférence de Lausanne"
+    ],
+    "faits_negatifs": [
+      "Assassinat par Gorguloff",
+      "Crise économique"
+    ]
   },
   {
     "slug": "lebrun",
@@ -205,7 +497,18 @@
     "titre": "Président de la République",
     "debut": "1932",
     "fin": "1940",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg/250px-Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg/250px-Albert_Lebrun_1932_%282%29_%28cropped_2%29.jpg",
+    "naissance": "1871",
+    "deces": "1950",
+    "regime": "IIIe République",
+    "faits_positifs": [
+      "Front populaire (1936)",
+      "Lois sociales"
+    ],
+    "faits_negatifs": [
+      "Défaite de 1940",
+      "Capitulation"
+    ]
   },
   {
     "slug": "petain",
@@ -213,7 +516,18 @@
     "titre": "Chef de l'État (régime de Vichy)",
     "debut": "1940",
     "fin": "1944",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P%C3%A9tain_-_Portrait_photographique_1941.jpg/250px-P%C3%A9tain_-_Portrait_photographique_1941.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/P%C3%A9tain_-_Portrait_photographique_1941.jpg/250px-P%C3%A9tain_-_Portrait_photographique_1941.jpg",
+    "naissance": "1856",
+    "deces": "1951",
+    "regime": "Régime de Vichy",
+    "faits_positifs": [
+      "Héros de Verdun (1916)"
+    ],
+    "faits_negatifs": [
+      "Collaboration nazie",
+      "Rafle du Vel d'Hiv",
+      "Condamnation pour haute trahison"
+    ]
   },
   {
     "slug": "de_gaulle_gprf",
@@ -221,7 +535,19 @@
     "titre": "Président du GPRF",
     "debut": "1944",
     "fin": "1946",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg",
+    "naissance": "1890",
+    "deces": "1970",
+    "regime": "GPRF",
+    "faits_positifs": [
+      "Libération de la France",
+      "Droit de vote des femmes",
+      "Sécurité sociale"
+    ],
+    "faits_negatifs": [
+      "Épuration",
+      "Guerre d'Indochine relancée"
+    ]
   },
   {
     "slug": "auriol",
@@ -229,7 +555,18 @@
     "titre": "Président de la République",
     "debut": "1947",
     "fin": "1954",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg/250px-Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg/250px-Portrait_officiel_Vincent_Auriol_%28cropped%29.jpg",
+    "naissance": "1884",
+    "deces": "1966",
+    "regime": "IVe République",
+    "faits_positifs": [
+      "Plan Marshall",
+      "Création de la CEE"
+    ],
+    "faits_negatifs": [
+      "Guerre d'Indochine",
+      "Instabilité gouvernementale"
+    ]
   },
   {
     "slug": "coty",
@@ -237,7 +574,18 @@
     "titre": "Président de la République",
     "debut": "1954",
     "fin": "1959",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ren%C3%A9_Coty_-_1954.jpg/250px-Ren%C3%A9_Coty_-_1954.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Ren%C3%A9_Coty_-_1954.jpg/250px-Ren%C3%A9_Coty_-_1954.jpg",
+    "naissance": "1882",
+    "deces": "1962",
+    "regime": "IVe République",
+    "faits_positifs": [
+      "Début de la Ve République",
+      "Paix en Tunisie"
+    ],
+    "faits_negatifs": [
+      "Crise d'Alger",
+      "Guerre d'Algérie"
+    ]
   },
   {
     "slug": "de_gaulle",
@@ -245,7 +593,19 @@
     "titre": "Président de la République",
     "debut": "1959",
     "fin": "1969",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg/250px-De_Gaulle-OWI_%283x4_cropped%29_%282%29.jpg",
+    "naissance": "1890",
+    "deces": "1970",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Indépendance de l'Algérie",
+      "Force de dissuasion",
+      "May 68 maîtrisé"
+    ],
+    "faits_negatifs": [
+      "Répression en Algérie",
+      "Quitte le pouvoir après référendum"
+    ]
   },
   {
     "slug": "pompidou",
@@ -253,7 +613,18 @@
     "titre": "Président de la République",
     "debut": "1969",
     "fin": "1974",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georges_Pompidou_1969_%28cropped%29.jpg/250px-Georges_Pompidou_1969_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Georges_Pompidou_1969_%28cropped%29.jpg/250px-Georges_Pompidou_1969_%28cropped%29.jpg",
+    "naissance": "1911",
+    "deces": "1974",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Modernisation économique",
+      "Centre Pompidou"
+    ],
+    "faits_negatifs": [
+      "Mai 68",
+      "Décès en fonctions"
+    ]
   },
   {
     "slug": "giscard",
@@ -261,7 +632,19 @@
     "titre": "Président de la République",
     "debut": "1974",
     "fin": "1981",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg/250px-Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg/250px-Val%C3%A9ry_Giscard_d%E2%80%99Estaing_1978%283%29.jpg",
+    "naissance": "1926",
+    "deces": "2020",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Majorité à 18 ans",
+      "IVG (loi Veil)",
+      "Abolition de la peine de mort"
+    ],
+    "faits_negatifs": [
+      "Crise économique des années 1970",
+      "Affaires politico-financières"
+    ]
   },
   {
     "slug": "mitterrand",
@@ -269,7 +652,20 @@
     "titre": "Président de la République",
     "debut": "1981",
     "fin": "1995",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg/250px-President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg/250px-President_Mitterand_bij_slotzitting_Europa_Congres_Mitterand%2C_kop%2C_Bestanddeelnr_934-2444_%28portrait_crop%29.jpg",
+    "naissance": "1916",
+    "deces": "1996",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Abolition de la peine de mort",
+      "Construction européenne",
+      "Grands travaux"
+    ],
+    "faits_negatifs": [
+      "Cohabitations",
+      "Affaires de financement",
+      "Sida peu anticipé"
+    ]
   },
   {
     "slug": "chirac",
@@ -277,7 +673,18 @@
     "titre": "Président de la République",
     "debut": "1995",
     "fin": "2007",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jacques_Chirac_%281997%29_%28cropped%29.jpg/250px-Jacques_Chirac_%281997%29_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Jacques_Chirac_%281997%29_%28cropped%29.jpg/250px-Jacques_Chirac_%281997%29_%28cropped%29.jpg",
+    "naissance": "1932",
+    "deces": "2019",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Opposition à la guerre en Irak",
+      "Loi Taubira"
+    ],
+    "faits_negatifs": [
+      "Emplois fictifs",
+      "Grèves de 1995"
+    ]
   },
   {
     "slug": "sarkozy",
@@ -285,7 +692,18 @@
     "titre": "Président de la République",
     "debut": "2007",
     "fin": "2012",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicolas_Sarkozy_20220927.jpg/250px-Nicolas_Sarkozy_20220927.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Nicolas_Sarkozy_20220927.jpg/250px-Nicolas_Sarkozy_20220927.jpg",
+    "naissance": "1955",
+    "deces": "",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Présidence du G20",
+      "Réforme des retraites"
+    ],
+    "faits_negatifs": [
+      "Crise financière 2008",
+      "Affaires judiciaires"
+    ]
   },
   {
     "slug": "hollande",
@@ -293,7 +711,18 @@
     "titre": "Président de la République",
     "debut": "2012",
     "fin": "2017",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg/250px-Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg/250px-Fran%C3%A7ois_Hollande_-_Ceremony_of_Honour_for_Jacques_Delors_-_2024.jpg",
+    "naissance": "1954",
+    "deces": "",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Accord de Paris sur le climat",
+      "Mariage pour tous"
+    ],
+    "faits_negatifs": [
+      "Chômage élevé",
+      "Attentats de 2015-2016"
+    ]
   },
   {
     "slug": "macron",
@@ -301,6 +730,17 @@
     "titre": "Président de la République",
     "debut": "2017",
     "fin": "2026",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/250px-Emmanuel_Macron_2025_%28cropped%29.jpg"
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Emmanuel_Macron_2025_%28cropped%29.jpg/250px-Emmanuel_Macron_2025_%28cropped%29.jpg",
+    "naissance": "1977",
+    "deces": "",
+    "regime": "Ve République",
+    "faits_positifs": [
+      "Loi climat",
+      "Réforme des retraites (2023)"
+    ],
+    "faits_negatifs": [
+      "Gilets jaunes",
+      "Crise covid mal gérée selon critiques"
+    ]
   }
 ]
